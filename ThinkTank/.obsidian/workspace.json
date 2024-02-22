@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "40a95f2971752636",
+    "type": "split",
+    "children": [
+      {
+        "id": "635ed1cf993da512",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee9d6887533494ad",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "17984da741ddff2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aedefb9646a769da",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1897d54f01f8284b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c50191c949951603",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "218b55ff1ffd10f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c76bcbdd1b633cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c7bbe67041cd880",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1484d8767ff08815",
+    "type": "split",
+    "children": [
+      {
+        "id": "07e712b8218aa916",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8218e4223bbe028d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b4e9ff1ce4b82c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51c90170916a6b7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a278cb9aa8a756c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "218b55ff1ffd10f7",
+  "lastOpenFiles": [
+    "10-永久",
+    "9-杂项/mmexport1683102333197.jpg",
+    "9-杂项",
+    "8-语言",
+    "7-随想/春运.md",
+    "7-随想/教育出问题了.md",
+    "7-随想",
+    "6-旅游照片",
+    "5-程序",
+    "4-索引",
+    "3-文献",
+    "2-闪念",
+    "1-日志",
+    "Welcome.md"
+  ]
+}
