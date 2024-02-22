@@ -7,4 +7,4 @@
 7、执行git fetch命令
 8、执行git merge origin/main命令
 9、执行git rebase origin/main命令
-10、执行git push origin main命令
+10、执行git push origin main命令![[obsidian Git调试过程.png]]
