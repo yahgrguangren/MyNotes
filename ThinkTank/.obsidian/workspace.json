@@ -11,11 +11,9 @@
             "id": "ee9d6887533494ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "修改obsidian Git 让笔记可以正常备份到Github上.md",
-                "mode": "source",
-                "source": false
+                "file": "9-杂项/attachments/obsidian Git调试过程.png"
               }
             }
           }
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "修改obsidian Git 让笔记可以正常备份到Github上.md",
+                "file": "9-杂项/attachments/obsidian Git调试过程.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "修改obsidian Git 让笔记可以正常备份到Github上.md",
+                "file": "9-杂项/attachments/obsidian Git调试过程.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "修改obsidian Git 让笔记可以正常备份到Github上.md"
+                "file": "9-杂项/attachments/obsidian Git调试过程.png"
               }
             }
           }
@@ -161,10 +159,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "218b55ff1ffd10f7",
+  "active": "ee9d6887533494ad",
   "lastOpenFiles": [
+    "9-杂项/修改obsidian Git 让笔记可以正常备份到Github上.md",
     "9-杂项/attachments/obsidian Git调试过程.png",
-    "修改obsidian Git 让笔记可以正常备份到Github上.md",
     "9-杂项/attachments",
     "1-日志/未命名.md",
     "10-永久",
