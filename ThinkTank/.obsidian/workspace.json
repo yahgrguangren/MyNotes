@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9-杂项/修改obsidian Git.md",
+                "file": "10-永久/Obsidian基本设置.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9-杂项/修改obsidian Git.md",
+                "file": "10-永久/Obsidian基本设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9-杂项/修改obsidian Git.md",
+                "file": "10-永久/Obsidian基本设置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9-杂项/修改obsidian Git.md"
+                "file": "10-永久/Obsidian基本设置.md"
               }
             }
           }
@@ -165,10 +165,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "218b55ff1ffd10f7",
+  "active": "ee9d6887533494ad",
   "lastOpenFiles": [
-    "9-杂项/mmexport1683102333197.jpg",
     "9-杂项/修改obsidian Git.md",
+    "9-杂项/mmexport1683102333197.jpg",
     "9-杂项/attachments/obsidian Git调试过程.png",
     "10-永久/声音转文字.md",
     "10-永久/Obsidian基本设置.md",

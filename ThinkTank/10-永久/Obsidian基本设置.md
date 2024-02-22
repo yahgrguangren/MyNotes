@@ -22,3 +22,4 @@ picgo配置“上传前重命名”和“时间戳重命名”的开关为打开
 三、在GitHub上设置了存储库
 M有Notes/ThinkTank存储库
 https://github.com/yahgrguangren/MyNotes.git
+在插件中da'k
