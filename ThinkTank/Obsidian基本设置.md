@@ -9,7 +9,7 @@
 7、Style Settings
 8、Text Snippets
 二、安装的配合软件
-PicGo图片自动上传程序，设置了腾讯云COS图床，并在腾讯云上设置了存储桶
+PicGo图片自动上传程序，设置了腾讯云COS图床，并在腾讯云上设置了存储桶yahgr-1324491178
 设定Bucket yahgr-1324491178
 设定存储区域 ap-chengdu
 配置文件为data，放在C:\Users\yahgr\AppData\Roaming\picgo下面
