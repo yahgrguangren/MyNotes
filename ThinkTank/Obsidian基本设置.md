@@ -3,4 +3,7 @@
 Advaced Tables
 Git(Obsidian-Git)
 Image auto upload plugin
-Note Refac
+Note Refactor
+Outliner
+Paste URL into selection
+Style
