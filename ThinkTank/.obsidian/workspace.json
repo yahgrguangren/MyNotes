@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9-杂项/声音转文字.md",
+                "file": "9-杂项/修改obsidian Git 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9-杂项/声音转文字.md",
+                "file": "10-永久/声音转文字.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9-杂项/声音转文字.md",
+                "file": "9-杂项/修改obsidian Git 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9-杂项/声音转文字.md",
+                "file": "9-杂项/修改obsidian Git 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9-杂项/声音转文字.md"
+                "file": "9-杂项/修改obsidian Git 1.md"
               }
             }
           }
@@ -165,16 +165,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ee9d6887533494ad",
+  "active": "218b55ff1ffd10f7",
   "lastOpenFiles": [
     "9-杂项/attachments/obsidian Git调试过程.png",
+    "9-杂项/修改obsidian Git 1.md",
+    "10-永久/声音转文字.md",
     "10-永久/Obsidian基本设置.md",
     "Obsidian基本设置.md",
-    "9-杂项/修改obsidian Git.md",
     "1-日志/未命名.md",
     "6-旅游照片/未命名.md",
     "3-文献/未命名.md",
-    "9-杂项/声音转文字.md",
     "9-杂项/修改obsidian Git 让笔记可以正常备份到Github上.md",
     "9-杂项/attachments",
     "10-永久",
