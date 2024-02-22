@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-日志/未命名.md",
+                "file": "6-旅游照片/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日志/未命名.md",
+                "file": "6-旅游照片/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日志/未命名.md",
+                "file": "6-旅游照片/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日志/未命名.md"
+                "file": "6-旅游照片/未命名.md"
               }
             }
           }
@@ -167,12 +167,13 @@
   },
   "active": "ee9d6887533494ad",
   "lastOpenFiles": [
-    "9-杂项/修改obsidian Git.md",
     "9-杂项/声音转文字.md",
+    "6-旅游照片/未命名.md",
+    "1-日志/未命名.md",
+    "9-杂项/修改obsidian Git.md",
     "9-杂项/attachments/obsidian Git调试过程.png",
     "9-杂项/修改obsidian Git 让笔记可以正常备份到Github上.md",
     "9-杂项/attachments",
-    "1-日志/未命名.md",
     "10-永久",
     "9-杂项/mmexport1683102333197.jpg",
     "9-杂项",
