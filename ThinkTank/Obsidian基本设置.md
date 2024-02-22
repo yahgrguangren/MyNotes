@@ -8,5 +8,6 @@
 6、Paste URL into selection
 7、Style Settings
 8、Text Snippets
-二、
+二、安装的配合软件
+PicGo
 
