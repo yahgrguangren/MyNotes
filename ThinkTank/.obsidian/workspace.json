@@ -29,8 +29,12 @@
             "id": "aedefb9646a769da",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "9-杂项/声音转文字.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -161,10 +165,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "218b55ff1ffd10f7",
+  "active": "ee9d6887533494ad",
   "lastOpenFiles": [
-    "9-杂项/attachments/obsidian Git调试过程.png",
+    "9-杂项/声音转文字.md",
     "9-杂项/修改obsidian Git.md",
+    "9-杂项/attachments/obsidian Git调试过程.png",
     "9-杂项/修改obsidian Git 让笔记可以正常备份到Github上.md",
     "9-杂项/attachments",
     "1-日志/未命名.md",
