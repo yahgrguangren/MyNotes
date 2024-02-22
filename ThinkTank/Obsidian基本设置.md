@@ -17,4 +17,5 @@ yahgr-1324491178
 picgo配置“上传前重命名”和“时间戳重命名”的开关为打开状态
 需要在obsidian中自动上传图片，就需要在picgo中打开“开机启动”开关
 三、在GitHub上设置了存储库
+M'y'NotesThinkTank
 https://github.com/yahgrguangren/MyNotes.git
