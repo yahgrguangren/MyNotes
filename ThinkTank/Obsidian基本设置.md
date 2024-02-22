@@ -13,7 +13,7 @@ PicGo图片自动上传程序，设置了腾讯云COS图床，并在腾讯云上
 yahgr-1324491178
 SecretId
 SecretKey
-
+appid  1324491178
 设定Bucket yahgr-1324491178
 设定存储区域 ap-chengdu
 配置文件为data，放在C:\Users\yahgr\AppData\Roaming\picgo下面
