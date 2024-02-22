@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-日志/未命名.md",
+                "file": "9-杂项/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日志/未命名.md",
+                "file": "9-杂项/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日志/未命名.md",
+                "file": "9-杂项/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日志/未命名.md"
+                "file": "9-杂项/未命名.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   "active": "ee9d6887533494ad",
   "lastOpenFiles": [
     "1-日志/未命名.md",
+    "9-杂项/未命名.md",
     "10-永久",
     "9-杂项/mmexport1683102333197.jpg",
     "9-杂项",
