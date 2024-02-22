@@ -9,5 +9,5 @@
 7、Style Settings
 8、Text Snippets
 二、安装的配合软件
-PicGo
+PicGo图片自动上传程序，设置了
 
