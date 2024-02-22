@@ -11,8 +11,12 @@
             "id": "ee9d6887533494ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1-日志/未命名.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-日志/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-日志/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1-日志/未命名.md"
+              }
             }
           }
         ]
@@ -153,8 +161,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "218b55ff1ffd10f7",
+  "active": "ee9d6887533494ad",
   "lastOpenFiles": [
+    "1-日志/未命名.md",
     "10-永久",
     "9-杂项/mmexport1683102333197.jpg",
     "9-杂项",
