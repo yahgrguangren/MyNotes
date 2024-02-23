@@ -6,6 +6,7 @@
       {
         "id": "635ed1cf993da512",
         "type": "tabs",
+        "dimension": 85.95505617977528,
         "children": [
           {
             "id": "ee9d6887533494ad",
@@ -17,25 +18,26 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "76b6dd303e967460"
           }
         ]
       },
       {
-        "id": "17984da741ddff2a",
+        "id": "576cafa0184c64fe",
         "type": "tabs",
+        "dimension": 14.04494382022472,
         "children": [
           {
-            "id": "aedefb9646a769da",
+            "id": "150c8a6c9f95d7f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "outline",
               "state": {
-                "file": "10-永久/声音转文字.md",
-                "mode": "source",
-                "source": false
+                "file": "10-永久/Obsidian基本设置.md"
               }
-            }
+            },
+            "group": "76b6dd303e967460"
           }
         ]
       }
@@ -66,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#二、安装的配合软件",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 239.5
   },
   "right": {
     "id": "1484d8767ff08815",
