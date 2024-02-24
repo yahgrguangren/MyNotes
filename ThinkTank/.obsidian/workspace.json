@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "635ed1cf993da512",
+        "id": "e9d0fea21c101f25",
         "type": "tabs",
-        "dimension": 85.95505617977527,
         "children": [
           {
-            "id": "ee9d6887533494ad",
+            "id": "ca666bfc347bffb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-永久/Obsidian基本设置.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "76b6dd303e967460"
-          }
-        ]
-      },
-      {
-        "id": "576cafa0184c64fe",
-        "type": "tabs",
-        "dimension": 14.044943820224724,
-        "children": [
-          {
-            "id": "150c8a6c9f95d7f0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "10-永久/Obsidian基本设置.md"
-              }
-            },
-            "group": "76b6dd303e967460"
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -105,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-永久/Obsidian基本设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-永久/Obsidian基本设置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "10-永久/Obsidian基本设置.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,8 +141,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee9d6887533494ad",
+  "active": "ca666bfc347bffb2",
   "lastOpenFiles": [
+    "10-永久/Obsidian基本设置.md",
     "1-日志/中国的四大明楼.md",
     "8-英语语言学习/英语常用的十个句型.md",
     "11-项目",
@@ -178,7 +151,6 @@
     "7-随想/春运.md",
     "12-政治经济学习",
     "7-随想/教育出问题了.md",
-    "10-永久/Obsidian基本设置.md",
     "9-乱七八糟的东西/修改obsidian Git.md",
     "9-乱七八糟的东西/mmexport1683102333197.jpg",
     "9-杂项/attachments/obsidian Git调试过程.png",
