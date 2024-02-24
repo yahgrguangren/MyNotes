@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8-英语语言学习/英语常用的十个句型.md",
+                "file": "10-永久/Obsidian基本设置.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-英语语言学习/英语常用的十个句型.md"
+                "file": "10-永久/Obsidian基本设置.md"
               }
             },
             "group": "76b6dd303e967460"
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8-英语语言学习/英语常用的十个句型.md",
+                "file": "10-永久/Obsidian基本设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8-英语语言学习/英语常用的十个句型.md",
+                "file": "10-永久/Obsidian基本设置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-英语语言学习/英语常用的十个句型.md"
+                "file": "10-永久/Obsidian基本设置.md"
               }
             }
           }
@@ -160,27 +160,27 @@
     "hiddenItems": {
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "218b55ff1ffd10f7",
+  "active": "ee9d6887533494ad",
   "lastOpenFiles": [
-    "项目",
     "1-日志/中国的四大明楼.md",
     "8-英语语言学习/英语常用的十个句型.md",
-    "政治学习/中国政治体制和现代政治到底差距.md",
+    "11-项目",
+    "12-政治经济学习/中国政治体制和现代政治到底差距.md",
     "7-随想/春运.md",
-    "政治学习",
+    "12-政治经济学习",
     "7-随想/教育出问题了.md",
     "10-永久/Obsidian基本设置.md",
-    "9-杂项/修改obsidian Git.md",
-    "9-杂项/mmexport1683102333197.jpg",
+    "9-乱七八糟的东西/修改obsidian Git.md",
+    "9-乱七八糟的东西/mmexport1683102333197.jpg",
     "9-杂项/attachments/obsidian Git调试过程.png",
     "10-永久/声音转文字.md",
     "Obsidian基本设置.md",
@@ -189,13 +189,12 @@
     "9-杂项/修改obsidian Git 让笔记可以正常备份到Github上.md",
     "9-杂项/attachments",
     "10-永久",
-    "9-杂项",
+    "9-乱七八糟的东西",
     "8-英语语言学习",
     "7-随想",
-    "6-旅游照片",
+    "6-旅游",
     "5-程序",
     "4-索引",
-    "3-文献",
     "Welcome.md"
   ]
 }
