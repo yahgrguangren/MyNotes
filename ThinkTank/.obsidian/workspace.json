@@ -128,13 +128,21 @@
                 "file": "2-闪念/工作时长看权利与义务.md"
               }
             }
+          },
+          {
+            "id": "91cfd899410e6f74",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,7 +157,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca666bfc347bffb2",
+  "active": "91cfd899410e6f74",
   "lastOpenFiles": [
     "7-随想/教育出问题了.md",
     "2-闪念/工作时长看权利与义务.md",
