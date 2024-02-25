@@ -1,10 +1,11 @@
 ```css
 /* Custom Header Styles */
+
 h1 {
     color: #3498db; /* 蓝色 */
     font-size: 24px; /* 更大的字体尺寸 */
     text-align: center; /* 标题居中 */
-   /* border-bottom: 2px solid #3498db; /* 蓝色底边 */
+    border-bottom: 2px solid #3498db; /* 蓝色底边 */
     padding-bottom: 4px; /* 底边间隙 */
 }
 
