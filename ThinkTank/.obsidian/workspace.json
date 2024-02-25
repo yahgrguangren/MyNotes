@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-随想/教育出问题了.md",
+                "file": "1-日志/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#二、安装的配合软件",
+                "query": "tag:#很好的发挥",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7-随想/教育出问题了.md",
+                "file": "1-日志/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7-随想/教育出问题了.md",
+                "file": "1-日志/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7-随想/教育出问题了.md"
+                "file": "1-日志/未命名.md"
               }
             }
           },
@@ -167,6 +168,8 @@
   },
   "active": "ca666bfc347bffb2",
   "lastOpenFiles": [
+    "7-随想/教育出问题了.md",
+    "1-日志/未命名.md",
     "7-随想/春运.md",
     "9-乱七八糟的东西/茅台酒.md",
     "14-历史文化学习/中国通史电视剧.md",
@@ -178,7 +181,6 @@
     "9-乱七八糟的东西/修改obsidian Git.md",
     "9-乱七八糟的东西/mmexport1683102333197.jpg",
     "12-政治经济学习/中国政治体制和现代政治到底差距.md",
-    "7-随想/教育出问题了.md",
     "14-历史文化学习/中国的四大明楼.md",
     "14-历史文化学习",
     "13-历史地理学习",
