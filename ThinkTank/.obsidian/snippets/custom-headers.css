@@ -9,6 +9,14 @@ h1 {
     padding-bottom: 4px; /* 底边间隙 */
 }
 
+h11 {
+    color: #3498d9; /* 蓝色 */
+    font-size: 18px; /* 更大的字体尺寸 */
+    text-align: center; /* 标题居中 */
+    border-bottom: 2px solid #3498db; /* 蓝色底边 */
+    padding-bottom: 4px; /* 底边间隙 */
+}
+
 h2 {
     color: #2ecc71; /* 绿色 */
     font-size: 20px; /* 稍大的字体尺寸 */
@@ -20,7 +28,7 @@ h3 {
     color: #dfa000; /* yellow*/
     font-size: 18px; /* 更大的字体尺寸 */
     text-align: center; /* 标题居中 */
-    border-bottom: 2px solid #3498db; /* 蓝色底边 */
+   /* border-bottom: 2px solid #3498db; /* 蓝色底边 */*/
     padding-bottom: 4px; /* 底边间隙 */
 }
 
