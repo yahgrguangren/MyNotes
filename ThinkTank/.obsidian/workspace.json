@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4bf83735ff880de",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日志/CSS练习.md",
+                "file": "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日志/CSS练习.md",
+                "file": "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日志/CSS练习.md"
+                "file": "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md"
               }
             }
           },
@@ -162,15 +173,18 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "218b55ff1ffd10f7",
+  "active": "f4bf83735ff880de",
   "lastOpenFiles": [
+    "1-日志/CSS练习.md",
+    "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
+    "Excalidraw",
     "15-菜谱",
     "10-永久/声音转文字.md",
     "10-永久/Obsidian基本设置.md",
-    "1-日志/CSS练习.md",
     "7-随想/教育出问题了.md",
     "7-随想/春运.md",
     "9-乱七八糟的东西/茅台酒.md",
@@ -197,8 +211,6 @@
     "10-永久",
     "9-乱七八糟的东西",
     "8-英语语言学习",
-    "7-随想",
-    "6-旅游",
     "Welcome.md"
   ]
 }
