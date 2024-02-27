@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "62c221c3a9bf5b1b",
+        "id": "88da97d20225d5f2",
         "type": "tabs",
         "children": [
           {
-            "id": "5f07752b84df99cc",
+            "id": "35f65c513fb7af4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14-历史文化学习/中国通史电视剧.md",
+                "file": "7-随想/春运.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14-历史文化学习/中国通史电视剧.md",
+                "file": "7-随想/春运.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14-历史文化学习/中国通史电视剧.md",
+                "file": "7-随想/春运.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14-历史文化学习/中国通史电视剧.md"
+                "file": "7-随想/春运.md"
               }
             }
           },
@@ -167,28 +167,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5f07752b84df99cc",
+  "active": "35f65c513fb7af4f",
   "lastOpenFiles": [
+    "9-乱七八糟的东西/同花顺公式.md",
+    "9-乱七八糟的东西/免费的订阅链接.md",
     "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
     "Excalidraw/Pasted Image 20240227224949_664.png",
+    "10-永久/《Excel在会计中的应用》课程教学大纲.md",
+    "10-永久/声音转文字.md",
+    "9-乱七八糟的东西/Cloudflare.md",
+    "9-乱七八糟的东西/修改obsidian Git.md",
+    "14-历史文化学习/中国通史电视剧.md",
     "9-乱七八糟的东西/纪念周芷若.md",
     "9-乱七八糟的东西/茅台酒.md",
     "1-日志/CSS练习.md",
-    "9-乱七八糟的东西/Cloudflare.md",
     "5-程序/work.js.md",
     "10-永久/Obsidian基本设置.md",
-    "10-永久/《Excel在会计中的应用》课程教学大纲.md",
     "Excalidraw",
     "15-菜谱",
-    "10-永久/声音转文字.md",
     "7-随想/教育出问题了.md",
     "7-随想/春运.md",
-    "14-历史文化学习/中国通史电视剧.md",
     "2-闪念/工作时长与权利.md",
-    "9-乱七八糟的东西/免费的订阅链接.md",
     "8-英语语言学习/英语常用的十个句型.md",
-    "9-乱七八糟的东西/同花顺公式.md",
-    "9-乱七八糟的东西/修改obsidian Git.md",
     "9-乱七八糟的东西/mmexport1683102333197.jpg",
     "12-政治经济学习/中国政治体制和现代政治到底差距.md",
     "14-历史文化学习/中国的四大明楼.md",
