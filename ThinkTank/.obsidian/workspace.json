@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3f867cc6e5a78ed8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-永久/《Excel在会计中的应用》课程教学大纲.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-永久/《Excel在会计中的应用》课程教学大纲.md",
+                "file": "10-永久/Obsidian基本设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-永久/《Excel在会计中的应用》课程教学大纲.md",
+                "file": "10-永久/Obsidian基本设置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-永久/《Excel在会计中的应用》课程教学大纲.md"
+                "file": "10-永久/Obsidian基本设置.md"
               }
             }
           },
@@ -180,10 +167,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3f867cc6e5a78ed8",
+  "active": "95a4fd240d8655ab",
   "lastOpenFiles": [
-    "10-永久/Obsidian基本设置.md",
     "10-永久/《Excel在会计中的应用》课程教学大纲.md",
+    "10-永久/Obsidian基本设置.md",
     "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
     "1-日志/CSS练习.md",
     "Excalidraw",
