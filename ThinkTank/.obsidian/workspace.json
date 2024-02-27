@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e9d0fea21c101f25",
+        "id": "a7b4afd83c9309fc",
         "type": "tabs",
         "children": [
           {
-            "id": "f4bf83735ff880de",
+            "id": "95a4fd240d8655ab",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,14 +158,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f4bf83735ff880de",
+  "active": "95a4fd240d8655ab",
   "lastOpenFiles": [
-    "1-日志/CSS练习.md",
     "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
+    "10-永久/Obsidian基本设置.md",
+    "1-日志/CSS练习.md",
     "Excalidraw",
     "15-菜谱",
     "10-永久/声音转文字.md",
-    "10-永久/Obsidian基本设置.md",
     "7-随想/教育出问题了.md",
     "7-随想/春运.md",
     "9-乱七八糟的东西/茅台酒.md",
