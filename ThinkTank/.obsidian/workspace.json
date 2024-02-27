@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-永久/Obsidian基本设置.md",
+                "file": "5-程序/work.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-永久/Obsidian基本设置.md",
+                "file": "5-程序/work.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-永久/Obsidian基本设置.md",
+                "file": "5-程序/work.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-永久/Obsidian基本设置.md"
+                "file": "5-程序/work.js.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "95a4fd240d8655ab",
   "lastOpenFiles": [
-    "10-永久/《Excel在会计中的应用》课程教学大纲.md",
+    "9-乱七八糟的东西/Cloudflare.md",
+    "5-程序/work.js.md",
     "10-永久/Obsidian基本设置.md",
+    "10-永久/《Excel在会计中的应用》课程教学大纲.md",
     "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
     "1-日志/CSS练习.md",
     "Excalidraw",
