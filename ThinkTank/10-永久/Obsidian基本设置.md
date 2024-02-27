@@ -1,15 +1,15 @@
 2024-02-21
 # 一、安装的插件：
 1、Advaced Tables
-2、Git(Obsidian-Git)
-3、Image auto upload plugin
+2、Git(Obsidian-Git)用于上传文档到GitHub
+3、Image auto upload plugin 用于上传图片到腾讯云
 4、Note Refactor
 5、Outliner
 6、Paste URL into selection
 7、Style Settings
 8、Text Snippets
 9、Excalidraw
-10、Remotely Save
+10、Remotely Save 用于同传到腾讯云
 # 二、安装的配合软件
 PicGo图片自动上传程序，设置了腾讯云COS图床，并在腾讯云上设置了存储桶
 yahgr-1324491178
