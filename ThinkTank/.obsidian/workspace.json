@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a7b4afd83c9309fc",
+        "id": "62c221c3a9bf5b1b",
         "type": "tabs",
         "children": [
           {
-            "id": "95a4fd240d8655ab",
+            "id": "5f07752b84df99cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-程序/work.js.md",
+                "file": "1-日志/CSS练习.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-程序/work.js.md",
+                "file": "1-日志/CSS练习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-程序/work.js.md",
+                "file": "1-日志/CSS练习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-程序/work.js.md"
+                "file": "1-日志/CSS练习.md"
               }
             }
           },
@@ -167,13 +167,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "95a4fd240d8655ab",
+  "active": "5f07752b84df99cc",
   "lastOpenFiles": [
     "9-乱七八糟的东西/Cloudflare.md",
+    "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
     "5-程序/work.js.md",
     "10-永久/Obsidian基本设置.md",
     "10-永久/《Excel在会计中的应用》课程教学大纲.md",
-    "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
     "1-日志/CSS练习.md",
     "Excalidraw",
     "15-菜谱",
