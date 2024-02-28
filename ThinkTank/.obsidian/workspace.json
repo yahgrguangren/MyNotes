@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15-菜谱/四川风味菜.md",
-                "mode": "preview",
+                "file": "8-英语语言学习/英语常用的十个句型.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15-菜谱/四川风味菜.md",
+                "file": "8-英语语言学习/英语常用的十个句型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15-菜谱/四川风味菜.md",
+                "file": "8-英语语言学习/英语常用的十个句型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15-菜谱/四川风味菜.md"
+                "file": "8-英语语言学习/英语常用的十个句型.md"
               }
             }
           },
@@ -169,14 +169,14 @@
   },
   "active": "35f65c513fb7af4f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
+    "Excalidraw/Pasted Image 20240227224949_664.png",
+    "15-菜谱/四川风味菜.md",
     "15-菜谱/中国名菜谱  四川风味  高清 电子书 pdf [云南省饮食服务公司编][中国财政经济出版社][1991.02][245页]sample.pdf",
     "9-乱七八糟的东西/茅台酒.md",
-    "15-菜谱/四川风味菜.md",
     "7-随想/春运.md",
     "9-乱七八糟的东西/同花顺公式.md",
     "9-乱七八糟的东西/免费的订阅链接.md",
-    "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
-    "Excalidraw/Pasted Image 20240227224949_664.png",
     "10-永久/《Excel在会计中的应用》课程教学大纲.md",
     "10-永久/声音转文字.md",
     "9-乱七八糟的东西/Cloudflare.md",
@@ -206,7 +206,6 @@
     "9-杂项/attachments",
     "10-永久",
     "9-乱七八糟的东西",
-    "8-英语语言学习",
     "Welcome.md"
   ]
 }
