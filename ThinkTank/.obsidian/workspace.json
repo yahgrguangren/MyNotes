@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15-菜谱/未命名.md",
+                "file": "15-菜谱/八大菜系.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15-菜谱/未命名.md",
+                "file": "15-菜谱/八大菜系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15-菜谱/未命名.md",
+                "file": "15-菜谱/八大菜系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15-菜谱/未命名.md"
+                "file": "15-菜谱/八大菜系.md"
               }
             }
           },
@@ -169,7 +169,8 @@
   },
   "active": "28bef4f4d9038e4e",
   "lastOpenFiles": [
-    "15-菜谱/未命名.md",
+    "15-菜谱/中国名菜谱  四川风味  高清 电子书 pdf [云南省饮食服务公司编][中国财政经济出版社][1991.02][245页]sample.pdf",
+    "15-菜谱/八大菜系.md",
     "9-乱七八糟的东西/Cloudflare.md",
     "1-日志/CSS练习.md",
     "10-永久/《Excel在会计中的应用》课程教学大纲.md",
@@ -180,7 +181,6 @@
     "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
     "15-菜谱/中国名菜谱  浙江风味  高清 电子书 pdf [浙江省饮食服务公司编写][中国财政经济出版社][1988][248页]sample.pdf",
     "15-菜谱/中国名菜谱  素菜  高清 电子书 pdf [北京市饮食服务总公司编写][中国财政经济出版社][1992.10][283页]sample.pdf",
-    "15-菜谱/中国名菜谱  四川风味  高清 电子书 pdf [云南省饮食服务公司编][中国财政经济出版社][1991.02][245页]sample.pdf",
     "15-菜谱/中国名菜谱  上海风味  高清 电子书 pdf [上海新亚（集团）联营公司编写][中国财政经济出版社][1992][228页]sample.pdf",
     "15-菜谱/中国名菜谱  陕西风味  高清 电子书 pdf [陕西省商业厅食品局 陕西省烹饪协会编写][中国财政经济出版社][1992.12][281页]sample.pdf",
     "15-菜谱/中国名菜谱  山东风味  高清 电子书 pdf [杨东起主编；山东省饮食服务公司编写][中国财政经济出版社][1990.06][284页]sample.pdf",
@@ -206,7 +206,6 @@
     "Obsidian基本设置.md",
     "6-旅游照片/未命名.md",
     "3-文献/未命名.md",
-    "9-杂项/修改obsidian Git 让笔记可以正常备份到Github上.md",
-    "Welcome.md"
+    "9-杂项/修改obsidian Git 让笔记可以正常备份到Github上.md"
   ]
 }
