@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12-政治经济学习/中国政治体制和现代政治到底差距.md",
+                "file": "15-菜谱/我的家常菜.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12-政治经济学习/中国政治体制和现代政治到底差距.md",
+                "file": "15-菜谱/我的家常菜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12-政治经济学习/中国政治体制和现代政治到底差距.md",
+                "file": "15-菜谱/我的家常菜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12-政治经济学习/中国政治体制和现代政治到底差距.md"
+                "file": "15-菜谱/我的家常菜.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "28bef4f4d9038e4e",
   "lastOpenFiles": [
+    "15-菜谱/我的家常菜.md",
     "16-人物/孟德斯鸠.md",
     "12-政治经济学习/中国政治体制和现代政治到底差距.md",
     "14-历史文化学习/中国的四大明楼.md",
@@ -206,7 +207,6 @@
     "15-菜谱/四川风味菜.md",
     "8-英语语言学习/英语常用的十个句型.md",
     "7-随想/春运.md",
-    "5-程序/同花顺公式.md",
     "9-杂项/attachments/obsidian Git调试过程.png"
   ]
 }
