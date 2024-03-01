@@ -16,7 +16,7 @@
   
 I think I'll use it to format all of my documents from now on.
 
-<H1>标题</H1>
+# 标题(标题前加#+空格)
 # 标题-1
 ## 标题-2
 ### 标题-3
@@ -24,11 +24,11 @@ I think I'll use it to format all of my documents from now on.
 ##### 标题-5
 ###### 标题-6
 
-<h1>字体加粗</h1>
+# 字体加粗(前后双星号)
 **字体加粗**
-<h2>字体加斜</h2>
+# 字体加斜(前后单星号)
 *字体加粗*
-<h2>字体加删除线</h2>
+# 字体加删除线(前后双波浪线)
 ~~字体加删除线~~
 
 # 有序列表(数字+点+空格)
@@ -50,4 +50,6 @@ I think I'll use it to format all of my documents from now on.
 * 无序列表1
 	* 无序列表2
 		* 无序列表3
-* 也一样*
+
+# 引用(一个>+空格)
+>
