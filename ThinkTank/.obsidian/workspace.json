@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e3ced39a46168fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9-乱七八糟的东西/中国十大名茶.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,10 +204,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1ab06571bc79a84e",
+  "active": "3e3ced39a46168fb",
   "lastOpenFiles": [
-    "9-乱七八糟的东西/黄山毛峰.md",
+    "9-乱七八糟的东西/六安瓜片.md",
     "9-乱七八糟的东西/中国十大名茶.md",
+    "9-乱七八糟的东西/黄山毛峰.md",
     "9-乱七八糟的东西/都匀毛尖.md",
     "9-乱七八糟的东西/信阳毛尖.md",
     "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
@@ -231,7 +244,6 @@
     "15-菜谱/中国名菜谱  广东风味  高清 电子书 pdf [广东省饮食服务公司，广东省烹饪协会编写][中国财政经济出版社][1991][260页]sample.pdf",
     "Excalidraw/Pasted Image 20240227224949_664.png",
     "9-乱七八糟的东西/Cloudflare.md",
-    "10-永久/《Excel在会计中的应用》课程教学大纲.md",
     "9-杂项/attachments/obsidian Git调试过程.png"
   ]
 }
