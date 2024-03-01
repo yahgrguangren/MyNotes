@@ -1,12 +1,5 @@
 2024-02-25
 
-<h1> 很好的发挥  </h1>
-<h4>很好的发挥</h4>
-
-- [ ] 6666666
-<h2>很好的发挥</h2>
-- [x] 99999  
-
 # 标题(标题前加#+空格)
 # 标题-1
 ## 标题-2
@@ -52,6 +45,7 @@
 
 # 代码(三个小捺在波浪线键上)
 
+
 ```css
 /* Custom Header Styles */
 
@@ -62,3 +56,15 @@
 - [x] 任务列表
 
 [在线markdown练习与学习](https://www.zybuluo.com/mdeditor)
+
+
+```flow
+st=>start: Start
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```

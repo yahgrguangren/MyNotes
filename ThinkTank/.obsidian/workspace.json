@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-日志/CSS练习.md",
+                "file": "1-日志/MarkDown学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日志/CSS练习.md",
+                "file": "1-日志/MarkDown学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日志/CSS练习.md",
+                "file": "1-日志/MarkDown学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日志/CSS练习.md"
+                "file": "1-日志/MarkDown学习.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "28bef4f4d9038e4e",
   "lastOpenFiles": [
+    "2-闪念/工作时长与权利.md",
+    "1-日志/MarkDown学习.md",
     "5-程序/work.js.md",
-    "1-日志/CSS练习.md",
     "9-乱七八糟的东西/中国十大名茶.md",
     "9-乱七八糟的东西/信阳毛尖.md",
     "9-乱七八糟的东西/洞庭碧螺春.md",
@@ -206,7 +207,6 @@
     "10-永久/《Excel在会计中的应用》课程教学大纲.md",
     "10-永久/声音转文字.md",
     "10-永久/Obsidian基本设置.md",
-    "15-菜谱/四川风味菜.md",
     "9-杂项/attachments/obsidian Git调试过程.png"
   ]
 }
