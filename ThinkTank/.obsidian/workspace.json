@@ -162,9 +162,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dcac20ec6cf729d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17-中华名茗/白茶.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17-中华名茗/中国十大名茶.md",
+                "file": "17-中华名茗/白茶.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17-中华名茗/中国十大名茶.md",
+                "file": "17-中华名茗/白茶.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17-中华名茗/中国十大名茶.md"
+                "file": "17-中华名茗/白茶.md"
               }
             }
           },
@@ -312,10 +324,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4c904610984331c5",
+  "active": "dcac20ec6cf729d4",
   "lastOpenFiles": [
-    "17-中华名茗/普洱茶.md",
     "17-中华名茗/中国十大名茶.md",
+    "17-中华名茗/白茶.md",
+    "17-中华名茗/中国的茶叶六大分类.md",
+    "1-日志/MarkDown学习.md",
+    "17-中华名茗/普洱茶.md",
     "17-中华名茗/白毫银针.md",
     "17-中华名茗/庐山云雾.md",
     "17-中华名茗/安溪铁观音.md",
@@ -330,7 +345,6 @@
     "17-中华名茗/都匀毛尖.md",
     "17-中华名茗/信阳毛尖.md",
     "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
-    "1-日志/MarkDown学习.md",
     "2-闪念/工作时长与权利.md",
     "5-程序/work.js.md",
     "17-中华名茗/洞庭碧螺春.md",
@@ -340,8 +354,6 @@
     "12-政治经济学习/中国政治体制和现代政治到底差距.md",
     "14-历史文化学习/中国的四大明楼.md",
     "16-人物",
-    "14-历史文化学习/鹳雀楼.md",
-    "14-历史文化学习/黄鹤楼.md",
     "9-乱七八糟的东西/团圆.jpg",
     "15-菜谱/中国名菜谱  安徽风味  高清 电子书 pdf [杨东起主编；安徽省饮食服务公司编写][中国财政经济出版社][1988.06][243页]sample.pdf",
     "15-菜谱/中国名菜谱  浙江风味  高清 电子书 pdf [浙江省饮食服务公司编写][中国财政经济出版社][1988][248页]sample.pdf",
