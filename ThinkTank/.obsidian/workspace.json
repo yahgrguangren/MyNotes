@@ -11,12 +11,8 @@
             "id": "28bef4f4d9038e4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9-乱七八糟的东西/西湖龙井.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9-乱七八糟的东西/西湖龙井.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9-乱七八糟的东西/西湖龙井.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "9-乱七八糟的东西/西湖龙井.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,8 +161,9 @@
   },
   "active": "28bef4f4d9038e4e",
   "lastOpenFiles": [
-    "9-乱七八糟的东西/中国十大名茶.md",
     "9-乱七八糟的东西/西湖龙井.md",
+    "9-乱七八糟的东西/中国十大名茶.md",
+    "9-乱七八糟的东西/西湖龙茶.md",
     "9-乱七八糟的东西/中国四大名酒.md",
     "9-乱七八糟的东西/茅台酒.md",
     "15-菜谱/八大菜系.md",
@@ -206,7 +199,6 @@
     "2-闪念/工作时长与权利.md",
     "12-政治经济学习/中国政治体制和现代政治到底差距.md",
     "14-历史文化学习/中国的四大明楼.md",
-    "9-杂项/attachments/obsidian Git调试过程.png",
-    "Obsidian基本设置.md"
+    "9-杂项/attachments/obsidian Git调试过程.png"
   ]
 }
