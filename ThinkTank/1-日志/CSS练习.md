@@ -3,18 +3,9 @@
 <h1> 很好的发挥  </h1>
 <h4>很好的发挥</h4>
 
-<h5>Italicized text is the *cat's meow*.</h5>
-
-<h3>很好的发挥</h3>
 - [ ] 6666666
 <h2>很好的发挥</h2>
 - [x] 99999  
- <h3>This can result in unexpected formatting problems.  </h3>
-  
-  Don't add tabs or spaces in front of paragraphs.
-       <h5>I really like using Markdown.  </h5>
-  
-I think I'll use it to format all of my documents from now on.
 
 # 标题(标题前加#+空格)
 # 标题-1
@@ -58,4 +49,13 @@ I think I'll use it to format all of my documents from now on.
 ---
 # 使用链接(英文的一对中括号+一对小括号[这里是链接的名字] (这是链接的地址))
 [百度](https://www.baidu.com)
+
+# 代码(三个小撇''')
+'''shell
+
+'''
+
+
+
+
 
