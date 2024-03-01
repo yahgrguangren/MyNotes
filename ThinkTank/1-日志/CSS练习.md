@@ -52,4 +52,10 @@ I think I'll use it to format all of my documents from now on.
 		* 无序列表3
 
 # 引用(一个>+空格)
->
+> 我的一个引用
+
+# 段落(使用分割线三个英文减号---)
+---
+# 使用链接(英文的一对中括号+一对小括号[这里是链接的名字] (这是链接的地址))
+[百度](https://www.baidu.com)
+
