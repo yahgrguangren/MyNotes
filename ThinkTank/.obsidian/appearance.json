@@ -2,6 +2,7 @@
   "accentColor": "",
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
-    "custom-headers"
+    "custom-headers",
+    "obsidian"
   ]
 }
