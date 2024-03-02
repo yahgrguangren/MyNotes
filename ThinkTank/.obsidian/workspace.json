@@ -329,11 +329,10 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "mxmind:Mxmind": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f6a68dedf73b4de4",
+  "active": "dcac20ec6cf729d4",
   "lastOpenFiles": [
     "17-中华名茗/普洱茶.md",
     "17-中华名茗/信阳毛尖.md",
