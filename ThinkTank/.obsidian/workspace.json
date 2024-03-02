@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-日志/MarkDown学习.md",
+                "file": "9-乱七八糟的东西/中国四大名酒.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 330
   },
   "right": {
     "id": "1484d8767ff08815",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日志/MarkDown学习.md",
+                "file": "9-乱七八糟的东西/中国四大名酒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日志/MarkDown学习.md",
+                "file": "9-乱七八糟的东西/中国四大名酒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日志/MarkDown学习.md"
+                "file": "9-乱七八糟的东西/中国四大名酒.md"
               }
             }
           },
@@ -188,9 +188,12 @@
   },
   "active": "368eef2833f2d4f5",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
+    "9-乱七八糟的东西/茅台酒.md",
+    "9-乱七八糟的东西/中国四大名酒.md",
+    "9-乱七八糟的东西/纪念周芷若.md",
     "1-日志/MarkDown学习.md",
     "2-闪念/工作时长与权利.md",
+    "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
     "Excalidraw/Pasted Image 20240227224949_664.png",
     "1-日志/202403021023.md",
     "202403021022.md",
@@ -212,8 +215,6 @@
     "17-中华名茗/安溪铁观音.md",
     "17-中华名茗/青茶.md",
     "17-中华名茗/中国十大名茶.md",
-    "17-中华名茗/[[中国的茶叶六大分类]].md",
-    "17-中华名茗/[[白茶[[中国的茶叶六大分类.md",
     "17-中华名茗",
     "16-人物",
     "9-乱七八糟的东西/团圆.jpg",

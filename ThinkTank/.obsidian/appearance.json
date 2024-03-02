@@ -3,6 +3,8 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "custom-headers",
-    "obsidian"
+    "obsidian",
+    "realistic-highlight",
+    "notation-colour-blocks"
   ]
 }
