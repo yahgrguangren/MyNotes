@@ -167,8 +167,12 @@
             "id": "dcac20ec6cf729d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1-日志/MarkDown学习.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -238,6 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-日志/MarkDown学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,6 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-日志/MarkDown学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +281,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1-日志/MarkDown学习.md"
+              }
             }
           },
           {
