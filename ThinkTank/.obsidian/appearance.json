@@ -5,6 +5,8 @@
     "custom-headers",
     "obsidian",
     "realistic-highlight",
-    "notation-colour-blocks"
-  ]
+    "notation-colour-blocks",
+    "common"
+  ],
+  "textFontFamily": ""
 }
