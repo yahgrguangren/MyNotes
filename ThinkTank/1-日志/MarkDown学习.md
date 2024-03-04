@@ -60,3 +60,6 @@
 [在线markdown练习与学习](https://www.zybuluo.com/mdeditor)
 
 ![[Drawing 2024-02-26 08.38.07.excalidraw]]
+# 脚注
+为引用添加脚注[^23]
+

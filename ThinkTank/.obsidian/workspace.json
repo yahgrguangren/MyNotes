@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-旅游/旅行的益处.md",
+                "file": "1-日志/MarkDown学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-旅游/旅行的益处.md",
+                "file": "1-日志/MarkDown学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-旅游/旅行的益处.md",
+                "file": "1-日志/MarkDown学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-旅游/旅行的益处.md"
+                "file": "1-日志/MarkDown学习.md"
               }
             }
           },
@@ -203,6 +203,7 @@
   },
   "active": "30b14ddecb6353c7",
   "lastOpenFiles": [
+    "6-旅游/旅行的益处.md",
     "5-程序/work.js.md",
     "5-程序/同花顺公式.md",
     "5-程序/去除快捷方式角标.md",
@@ -217,7 +218,6 @@
     "模板/未命名.md",
     "模板/旅游笔记模板.md",
     "6-旅游/延安市/2024-03-04.md",
-    "6-旅游/旅行的益处.md",
     "15-菜谱/青椒炒鸡蛋.md",
     "15-菜谱/我的家常菜.md",
     "14-历史文化学习/未命名.md",
