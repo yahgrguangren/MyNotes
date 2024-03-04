@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9240db751eabddaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "模板/旅游笔记模板.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,15 +200,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9240db751eabddaa",
+  "active": "30b14ddecb6353c7",
   "lastOpenFiles": [
-    "6-旅游/旅行的益处.md",
+    "6-旅游/延安市/2024-03-04.md",
     "模板/旅游笔记模板.md",
+    "6-旅游/旅行的益处.md",
     "模板/未命名.md",
     "15-菜谱/青椒炒鸡蛋.md",
     "15-菜谱/我的家常菜.md",
     "14-历史文化学习/未命名.md",
-    "6-旅游/延安市/2024-03-04.md",
     "14-历史文化学习/鹳雀楼.md",
     "模板",
     "14-历史文化学习/中国的四大明楼.md",
