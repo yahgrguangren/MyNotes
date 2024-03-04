@@ -1,0 +1,47 @@
+/* 笔记页内标题居中 */
+.view-content .markdown-source-view .inline-title {
+	align-self: center;
+}
+.markdown-preview-view .mod-header .inline-title {
+	text-align: center;
+}
+
+/* 让 Markdown 的文本多彩多色  代码片段在默认主题及 Blue Topaz 主题中可正常使用 */
+
+#h/green ==green background with white text==
+#h/red ==red background with white text==
+#h/pink ==pink background with white text==
+#h/blue ==blue background with white text==
+#h/yellow ==yellow background with black text==
+#h/aqua ==aqua background with white text==
+#h/white ==white background with black text==
+#h/black ==black background with white text==
+#h/fuchsin  ==fuchsin background with white text==
+#h/gray ==gray background with white text==
+#h/silver ==silver background with white text==
+#h/maroon ==maroon background with white text==
+#h/teal ==teal background with white text==
+#h/purple ==purple background with white text==
+#h/lime ==lime background with white text==
+#h/olive ==olive background with white text==
+#h/navy ==navy background with white text==
+
+/* 多彩斜体的写法 */
+
+#h/red _this is red italic text_
+#h/green _this is green italic text_ 
+#h/pink _this is pink italic text_
+#h/blue _this is blue italic text_
+#h/yellow _this is yellow italic text_
+#h/aqua _this is aqua italic text_
+#h/white _this is white italic text_
+#h/black _this is black italic_
+#h/fuchsin _this is fuchsin italic text_
+#h/gray _this is gray italic text_
+#h/silver _this is silver italic text_
+#h/maroon _this is maroon italic  text_
+#h/teal _this is teal italic  text_
+#h/purple _this is purple italic  text_
+#h/lime _this is lime italic  text_
+#h/olive _this is olive italic  text_
+#h/navy _this is navy italic text_

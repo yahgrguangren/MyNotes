@@ -4,10 +4,9 @@
   "enabledCssSnippets": [
     "custom-headers",
     "obsidian",
-    "realistic-highlight",
-    "notation-colour-blocks",
-    "common"
+    "my"
   ],
   "textFontFamily": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "nativeMenus": true
 }
