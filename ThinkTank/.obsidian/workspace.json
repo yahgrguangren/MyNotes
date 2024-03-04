@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9b9b568190758ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14-历史文化学习/简单模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30b14ddecb6353c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14-历史文化学习/简单模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14-历史文化学习/鹳雀楼.md",
+                "file": "14-历史文化学习/简单模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14-历史文化学习/鹳雀楼.md",
+                "file": "14-历史文化学习/简单模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14-历史文化学习/鹳雀楼.md"
+                "file": "14-历史文化学习/简单模板.md"
               }
             }
           },
@@ -175,10 +200,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "92468d6a418d4db5",
+  "active": "30b14ddecb6353c7",
   "lastOpenFiles": [
-    "14-历史文化学习/中国的四大明楼.md",
+    "14-历史文化学习/未命名.md",
+    "14-历史文化学习/简单模板.md",
     "14-历史文化学习/鹳雀楼.md",
+    "模板",
+    "14-历史文化学习/中国的四大明楼.md",
     "14-历史文化学习/黄鹤楼.md",
     "14-历史文化学习/滕王阁.md",
     "14-历史文化学习/岳阳楼.md",
@@ -202,7 +230,6 @@
     "17-中华名茗/洞庭碧螺春.md",
     "17-中华名茗/都匀毛尖.md",
     "17-中华名茗/君山银针.md",
-    "17-中华名茗/庐山云雾.md",
     "6-旅游/延安市/202209241241277819871.jpg",
     "6-旅游/延安市",
     "17-中华名茗",
@@ -214,7 +241,6 @@
     "15-菜谱/中国名菜谱  四川风味  高清 电子书 pdf [云南省饮食服务公司编][中国财政经济出版社][1991.02][245页]sample.pdf",
     "15-菜谱/中国名菜谱  上海风味  高清 电子书 pdf [上海新亚（集团）联营公司编写][中国财政经济出版社][1992][228页]sample.pdf",
     "15-菜谱/中国名菜谱  陕西风味  高清 电子书 pdf [陕西省商业厅食品局 陕西省烹饪协会编写][中国财政经济出版社][1992.12][281页]sample.pdf",
-    "15-菜谱/中国名菜谱  山东风味  高清 电子书 pdf [杨东起主编；山东省饮食服务公司编写][中国财政经济出版社][1990.06][284页]sample.pdf",
     "9-杂项/attachments/obsidian Git调试过程.png"
   ]
 }
