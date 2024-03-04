@@ -4,8 +4,8 @@
   "enabledCssSnippets": [
     "custom-headers",
     "obsidian",
-    "my",
-    "common"
+    "common",
+    "my"
   ],
   "textFontFamily": "",
   "theme": "obsidian",
