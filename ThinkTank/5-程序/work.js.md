@@ -1,4 +1,4 @@
-```\Cloudflare
+```Cloudflare
 
 // @ts-ignore
 import { connect } from 'cloudflare:sockets';
