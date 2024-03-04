@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-旅游/延安市/2024-03-03.md",
+                "file": "模板/旅游笔记模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-旅游/延安市/2024-03-03.md",
+                "file": "模板/旅游笔记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-旅游/延安市/2024-03-03.md",
+                "file": "模板/旅游笔记模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-旅游/延安市/2024-03-03.md"
+                "file": "模板/旅游笔记模板.md"
               }
             }
           },
@@ -202,10 +202,12 @@
   },
   "active": "30b14ddecb6353c7",
   "lastOpenFiles": [
-    "14-历史文化学习/未命名.md",
     "6-旅游/旅行的益处.md",
+    "15-菜谱/青椒炒鸡蛋.md",
+    "15-菜谱/我的家常菜.md",
+    "14-历史文化学习/未命名.md",
     "模板/旅游笔记模板.md",
-    "6-旅游/延安市/2024-03-03.md",
+    "6-旅游/延安市/2024-03-04.md",
     "14-历史文化学习/鹳雀楼.md",
     "模板",
     "14-历史文化学习/中国的四大明楼.md",
@@ -228,8 +230,6 @@
     "1-日志/MarkDown学习.md",
     "8-英语语言学习/英语常用的十个句型.md",
     "17-中华名茗/蒙顶山茶.md",
-    "17-中华名茗/洞庭碧螺春.md",
-    "17-中华名茗/都匀毛尖.md",
     "6-旅游/延安市/202209241241277819871.jpg",
     "6-旅游/延安市",
     "17-中华名茗",
