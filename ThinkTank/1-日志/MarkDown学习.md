@@ -67,5 +67,5 @@
 ^1[iuyiuyiuy]
 
 
-
-![Engelbart|100]![[Pasted Image 20240227224949_664.png]]
+# 插入图片(![Engelbart]+!+两个方括号括住的图片名)
+![Engelbart]![[Pasted Image 20240227224949_664.png]]
