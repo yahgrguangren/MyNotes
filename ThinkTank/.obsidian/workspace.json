@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-日志/MarkDown学习.md",
+                "file": "6-旅游/旅行的益处.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b8066278f9b84c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-旅游/我去过的地方.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日志/MarkDown学习.md",
+                "file": "6-旅游/我去过的地方.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日志/MarkDown学习.md",
+                "file": "6-旅游/我去过的地方.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日志/MarkDown学习.md"
+                "file": "6-旅游/我去过的地方.md"
               }
             }
           },
@@ -201,12 +213,15 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "30b14ddecb6353c7",
+  "active": "0b8066278f9b84c2",
   "lastOpenFiles": [
+    "6-旅游/延安市/2024-03-04.md",
+    "6-旅游/我去过的地方.md",
+    "6-旅游/旅行的益处.md",
+    "1-日志/MarkDown学习.md",
     "5-程序/同花顺公式.md",
     "5-程序/work.js.md",
     "5-程序/去除快捷方式角标.md",
-    "1-日志/MarkDown学习.md",
     "Excalidraw/Pasted Image 20240227224949_664.png",
     "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
     "2-闪念/工作时长与权利.md",
@@ -219,7 +234,6 @@
     "9-乱七八糟的东西/茅台酒.md",
     "14-历史文化学习/鹳雀楼.md",
     "模板/旅游笔记模板.md",
-    "6-旅游/旅行的益处.md",
     "9-乱七八糟的东西/Cloudflare.md",
     "14-历史文化学习/中国的四大明楼.md",
     "14-历史文化学习/黄鹤楼.md",
@@ -229,7 +243,6 @@
     "17-中华名茗/中国十大名茶.md",
     "未命名.md",
     "模板/未命名.md",
-    "6-旅游/延安市/2024-03-04.md",
     "模板",
     "6-旅游/延安市/202209241241277819871.jpg",
     "6-旅游/延安市",
