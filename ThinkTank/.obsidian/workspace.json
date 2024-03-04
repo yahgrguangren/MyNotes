@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-程序/同花顺公式.md",
-                "mode": "preview",
+                "file": "5-程序/work.js.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-程序/同花顺公式.md",
+                "file": "5-程序/work.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-程序/同花顺公式.md",
+                "file": "5-程序/work.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-程序/同花顺公式.md"
+                "file": "5-程序/work.js.md"
               }
             }
           },
@@ -203,14 +203,16 @@
   },
   "active": "30b14ddecb6353c7",
   "lastOpenFiles": [
+    "5-程序/同花顺公式.md",
     "5-程序/去除快捷方式角标.md",
     "5-程序/work.js.md",
+    "9-乱七八糟的东西/Cloudflare.md",
+    "9-乱七八糟的东西/订阅链接.md",
     "17-中华名茗/普洱茶.md",
     "17-中华名茗/茶叶六大分类.md",
     "17-中华名茗/中国十大名茶.md",
     "Excalidraw/Pasted Image 20240227224949_664.png",
     "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
-    "5-程序/同花顺公式.md",
     "未命名.md",
     "模板/未命名.md",
     "模板/旅游笔记模板.md",
@@ -229,8 +231,6 @@
     "17-中华名茗/西湖龙井.md",
     "17-中华名茗/太平猴魁.md",
     "17-中华名茗/祁门红茶.md",
-    "17-中华名茗/武夷岩茶.md",
-    "7-随想/教育出问题了.md",
     "6-旅游/延安市/202209241241277819871.jpg",
     "6-旅游/延安市",
     "17-中华名茗",
