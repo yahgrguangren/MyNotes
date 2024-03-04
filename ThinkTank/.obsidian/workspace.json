@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14-历史文化学习/简单模板.md",
+                "file": "模板/简单模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14-历史文化学习/简单模板.md",
+                "file": "14-历史文化学习/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14-历史文化学习/简单模板.md",
+                "file": "14-历史文化学习/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14-历史文化学习/简单模板.md",
+                "file": "14-历史文化学习/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14-历史文化学习/简单模板.md"
+                "file": "14-历史文化学习/未命名.md"
               }
             }
           },
@@ -202,8 +202,8 @@
   },
   "active": "30b14ddecb6353c7",
   "lastOpenFiles": [
+    "模板/简单模板.md",
     "14-历史文化学习/未命名.md",
-    "14-历史文化学习/简单模板.md",
     "14-历史文化学习/鹳雀楼.md",
     "模板",
     "14-历史文化学习/中国的四大明楼.md",
