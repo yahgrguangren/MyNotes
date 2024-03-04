@@ -13,5 +13,8 @@
   "obsidian-excalidraw-plugin",
   "remotely-save",
   "inline-admonitions",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "obsidian-minimal-settings",
+  "dataview",
+  "obsidian-notes-from-template"
 ]
