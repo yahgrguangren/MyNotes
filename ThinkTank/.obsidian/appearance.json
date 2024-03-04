@@ -8,5 +8,6 @@
     "notation-colour-blocks",
     "common"
   ],
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "theme": "obsidian"
 }
