@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17-中华名茗/普洱茶.md",
+                "file": "5-程序/去除快捷方式角标.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17-中华名茗/普洱茶.md",
+                "file": "5-程序/去除快捷方式角标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17-中华名茗/普洱茶.md",
+                "file": "5-程序/去除快捷方式角标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17-中华名茗/普洱茶.md"
+                "file": "5-程序/去除快捷方式角标.md"
               }
             }
           },
@@ -202,8 +202,8 @@
   },
   "active": "30b14ddecb6353c7",
   "lastOpenFiles": [
-    "17-中华名茗/茶叶六大分类.md",
     "17-中华名茗/普洱茶.md",
+    "17-中华名茗/茶叶六大分类.md",
     "17-中华名茗/中国十大名茶.md",
     "5-程序/去除快捷方式角标.md",
     "Excalidraw/Pasted Image 20240227224949_664.png",
