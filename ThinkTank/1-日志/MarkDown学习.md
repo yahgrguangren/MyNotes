@@ -120,7 +120,8 @@ $$△= \sqrt{b^{2}-4ac}/2$$
 \{}
 \#
 \!
-$$# 中文 $$
+
+<font color=#008000 size=8>中文</font> 
 # <font color=red size=6>链接</font>
 
 例如：
