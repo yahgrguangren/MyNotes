@@ -35,8 +35,12 @@
             "id": "0b8066278f9b84c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "9-乱七八糟的东西/经常使用的网址.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9-乱七八糟的东西/经常使用的网址.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9-乱七八糟的东西/经常使用的网址.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9-乱七八糟的东西/经常使用的网址.md"
+              }
             }
           },
           {
@@ -195,6 +203,7 @@
   },
   "active": "0b8066278f9b84c2",
   "lastOpenFiles": [
+    "My Code File.py.py",
     "9-乱七八糟的东西/永久订阅地址.md",
     "9-乱七八糟的东西/订阅链接.md",
     "9-乱七八糟的东西/经常使用的网址.md",
@@ -227,7 +236,6 @@
     "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
     "2-闪念/工作时长与权利.md",
     "17-中华名茗/白毫银针.md",
-    "17-中华名茗/茶叶六大分类.md",
     "15-菜谱/中国名菜谱  安徽风味  高清 电子书 pdf [杨东起主编；安徽省饮食服务公司编写][中国财政经济出版社][1988.06][243页]sample.pdf",
     "模板",
     "6-旅游/延安市/202209241241277819871.jpg",
