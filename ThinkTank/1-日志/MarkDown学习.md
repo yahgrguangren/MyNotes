@@ -124,3 +124,18 @@ $ c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}} $
 在文中其他任意地方定义链接地址, title 可选。一般定义在使用到超链接的段落后面，或集中在文件结尾:
 [1]: https://www.silinchen.com
 [1]: https://www.silinchen.com "技术学习、研究、分享"
+
+
+<font face="黑体">我是黑体字</font>
+<font face="微软雅黑">我是微软雅黑</font>
+<font face="STCAIYUN">我是华文彩云</font>
+<font color=red>我是红色</font>
+<font color=#008000>我是绿色</font>
+<font color=Blue>我是蓝色</font>
+<font size=5>我是尺寸</font>
+<font face="黑体" color=green size=4>我是黑体，绿色，尺寸为4</font>
+
+<font color=#008000 size=5>在文中其他任意地方定义链接地址, title 可选。一般定义在使用到超链接的段落后面，或集中在文件结尾:</font>
+
+<table><tr><td bgcolor=yellow>背景色yellow</td></tr></table>
+
