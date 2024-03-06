@@ -81,6 +81,7 @@
 # 插入图片(![Engelbart]+!+两个方括号括住的图片名)
 ![Engelbart]![[Pasted Image 20240227224949_664.png]]
 
+
 # 引用（\\-）
 > 人类面临着越来越复杂和紧迫的问题，他们有效处理这些问题对社会的稳定和持续进步至关重要。
 
@@ -124,11 +125,7 @@ $c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}}$
 纯链接：<https://www.silinchen.com>
 邮箱：<fake@example.com>
 
-文字链接：[我的个人网站][1]
-
-在文中其他任意地方定义链接地址, title 可选。一般定义在使用到超链接的段落后面，或集中在文件结尾:
-[1]: https://www.silinchen.com
-[1]: https://www.silinchen.com "技术学习、研究、分享"
+# URL 和电子邮件地址
 
 
 <font face="黑体">我是黑体字</font>
@@ -175,8 +172,8 @@ $c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}}$
 ```
 > #### The quarterly results look great!
 >
-> - Revenue was off the chart.
-> - Profits were higher than ever.
+>-  Revenue was off the chart.
+>-  Profits were higher than ever.
 >
 >  *Everything* is going according to **plan**.
 
