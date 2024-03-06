@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,6 +204,7 @@
   },
   "active": "0b8066278f9b84c2",
   "lastOpenFiles": [
+    "8-英语语言学习/Voice-2 1.mp3",
     "8-英语语言学习/Voice-2.mp3",
     "8-英语语言学习/Voice-1.mp3",
     "17-中华名茗/黄山毛峰.md",
@@ -244,7 +244,6 @@
     "模板",
     "6-旅游/延安市/202209241241277819871.jpg",
     "6-旅游/延安市",
-    "17-中华名茗",
     "9-乱七八糟的东西/团圆.jpg",
     "9-杂项/attachments/obsidian Git调试过程.png"
   ]
