@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8-英语语言学习/常用单词/常用英文单词汇集.md",
+                "file": "8-英语语言学习/英汉双语学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8-英语语言学习/常用单词/常用英文单词汇集.md",
+                "file": "8-英语语言学习/英汉双语学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8-英语语言学习/常用单词/常用英文单词汇集.md",
+                "file": "8-英语语言学习/英汉双语学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-英语语言学习/常用单词/常用英文单词汇集.md"
+                "file": "8-英语语言学习/英汉双语学习.md"
               }
             }
           },
@@ -204,12 +204,12 @@
   },
   "active": "0b8066278f9b84c2",
   "lastOpenFiles": [
-    "1-日志/MarkDown学习.md",
-    "8-英语语言学习/常用单词/常用英文单词汇集.md",
-    "9-乱七八糟的东西/纪念周芷若.md",
     "8-英语语言学习/英汉双语学习.md",
-    "8-英语语言学习/常用单词",
     "8-英语语言学习/录音/Voice-1.mp3",
+    "8-英语语言学习/常用单词/常用英文单词汇集.md",
+    "1-日志/MarkDown学习.md",
+    "9-乱七八糟的东西/纪念周芷若.md",
+    "8-英语语言学习/常用单词",
     "8-英语语言学习/录音",
     "8-英语语言学习/录音/Voice-10.mp3",
     "8-英语语言学习/录音/Voice-9.mp3",
@@ -241,7 +241,6 @@
     "18-中国四大名酒/中国四大名酒.md",
     "6-旅游/去过的地方.md",
     "6-旅游/延安市/延安市.md",
-    "6-旅游/旅行的益处.md",
     "Excalidraw/Pasted Image 20240227224949_664.png",
     "6-旅游/延安市/202209241241277819871.jpg",
     "9-乱七八糟的东西/团圆.jpg",
