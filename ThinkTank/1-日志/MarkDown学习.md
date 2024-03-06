@@ -101,9 +101,13 @@
 :clap:
 :laughing:
 
-
-$ c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}} $
-
+```math
+$e^{ix} = cosx + isinx$
+$ c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}}$
+```
+$e^{ix} = cosx + isinx$
+$$ c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}} $$
+$c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}}$
 # 转义字符（\\+转义字符）
 `\+转义字符`
 
@@ -137,5 +141,5 @@ $ c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}} $
 
 <font color=#008000 size=5>在文中其他任意地方定义链接地址, title 可选。一般定义在使用到超链接的段落后面，或集中在文件结尾:</font>
 
-<table><tr><td bgcolor=yellow>背景色yellow</td></tr></table>
+<table><tr><td bgcolor=yellow >背景色yellow</td></tr></table>
 
