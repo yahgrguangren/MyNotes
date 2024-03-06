@@ -125,7 +125,10 @@ $c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}}$
 纯链接：<https://www.silinchen.com>
 邮箱：<fake@example.com>
 
-# URL 和电子邮件地址
+# URL 和电子邮件地址(放在`<>`之间)
+
+<https://www.markdownguide.org>
+<fake@example.com>
 
 
 <font face="黑体">我是黑体字</font>
@@ -176,4 +179,5 @@ $c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}}$
 >-  Profits were higher than ever.
 >
 >  *Everything* is going according to **plan**.
+
 
