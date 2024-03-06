@@ -144,3 +144,39 @@ $c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}}$
 
 <table><tr><td bgcolor=yellow >背景色yellow</td></tr></table>
 
+```
+> Dorothy followed her through many of the beautiful rooms in her castle.
+/*强调*/
+```
+# 强调（`由>开始`）
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+
+# 嵌套块引用
+
+```
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+>> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+```
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+>> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
+
+# 与其他元素的块引用
+```
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+```
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+
