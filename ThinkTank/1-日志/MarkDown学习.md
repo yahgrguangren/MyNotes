@@ -100,10 +100,10 @@
 :-1:
 :clap:
 :laughing:
-
+# 公式的书写（两个美元符号之间）
 ```math
 $e^{ix} = cosx + isinx$
-$ c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}}$
+$c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}}$
 ```
 $e^{ix} = cosx + isinx$
 $$ c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}} $$
@@ -117,7 +117,8 @@ $c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}}$
 \#
 \!
 
-##  链接
+# <font color=red size=6>链接</font>
+
 例如：
 文字链接：[我的个人网站](https://www.silinchen.com "技术学习、研究、分享")
 纯链接：<https://www.silinchen.com>
