@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9-乱七八糟的东西/经常使用的网址.md",
+                "file": "17-中华名茗/黄山毛峰.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9-乱七八糟的东西/经常使用的网址.md",
+                "file": "17-中华名茗/黄山毛峰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9-乱七八糟的东西/经常使用的网址.md",
+                "file": "17-中华名茗/黄山毛峰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9-乱七八糟的东西/经常使用的网址.md"
+                "file": "17-中华名茗/黄山毛峰.md"
               }
             }
           },
@@ -198,15 +198,18 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "code-files:Create Code File": false
+      "code-files:Create Code File": false,
+      "mxmind:Mxmind": false
     }
   },
   "active": "0b8066278f9b84c2",
   "lastOpenFiles": [
+    "17-中华名茗/茶叶六大分类.md",
+    "17-中华名茗/黄山毛峰.md",
+    "9-乱七八糟的东西/经常使用的网址.md",
     "My Code File.py.py",
     "9-乱七八糟的东西/永久订阅地址.md",
     "9-乱七八糟的东西/订阅链接.md",
-    "9-乱七八糟的东西/经常使用的网址.md",
     "1-日志/MarkDown学习.md",
     "5-程序/work.js.md",
     "5-程序/同花顺公式.md",
@@ -235,7 +238,6 @@
     "Excalidraw/Pasted Image 20240227224949_664.png",
     "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
     "2-闪念/工作时长与权利.md",
-    "17-中华名茗/白毫银针.md",
     "15-菜谱/中国名菜谱  安徽风味  高清 电子书 pdf [杨东起主编；安徽省饮食服务公司编写][中国财政经济出版社][1988.06][243页]sample.pdf",
     "模板",
     "6-旅游/延安市/202209241241277819871.jpg",
@@ -243,7 +245,6 @@
     "17-中华名茗",
     "16-人物",
     "9-乱七八糟的东西/团圆.jpg",
-    "15-菜谱/中国名菜谱  浙江风味  高清 电子书 pdf [浙江省饮食服务公司编写][中国财政经济出版社][1988][248页]sample.pdf",
     "9-杂项/attachments/obsidian Git调试过程.png"
   ]
 }

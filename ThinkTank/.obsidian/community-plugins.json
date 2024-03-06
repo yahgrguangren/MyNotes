@@ -3,7 +3,6 @@
   "note-refactor-obsidian",
   "obsidian-outliner",
   "url-into-selection",
-  "tag-wrangler",
   "obsidian-style-settings",
   "text-snippets-obsidian",
   "obsidian-git",
@@ -14,5 +13,6 @@
   "remotely-save",
   "inline-admonitions",
   "obsidian-hover-editor",
-  "code-files"
+  "code-files",
+  "mxmind"
 ]
