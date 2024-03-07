@@ -35,12 +35,8 @@
             "id": "0b8066278f9b84c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "17-中华名茗/茶叶六大分类.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17-中华名茗/茶叶六大分类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17-中华名茗/茶叶六大分类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "17-中华名茗/茶叶六大分类.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,8 +196,11 @@
   },
   "active": "0b8066278f9b84c2",
   "lastOpenFiles": [
-    "1-日志/MarkDown学习.md",
+    "github.com/v2ray/v2ray-core.md",
+    "github.com/v2ray",
+    "github.com",
     "17-中华名茗/茶叶六大分类.md",
+    "1-日志/MarkDown学习.md",
     "17-中华名茗/中国十大名茶.md",
     "10-永久/声音转文字.md",
     "8-英语语言学习/常用单词/常用英文单词汇集.md",
@@ -220,8 +215,6 @@
     "8-英语语言学习/录音/Voice-8.mp3",
     "8-英语语言学习/录音/Voice-7.mp3",
     "8-英语语言学习/录音/Voice-6.mp3",
-    "8-英语语言学习/录音/Voice-5.mp3",
-    "8-英语语言学习/录音/Voice-4.mp3",
     "17-中华名茗/黄山毛峰.md",
     "9-乱七八糟的东西/经常使用的网址.md",
     "9-乱七八糟的东西/永久订阅地址.md",
@@ -241,7 +234,6 @@
     "6-旅游/陕西省/延安市/延安市.md",
     "6-旅游/陕西省/延安市/202209241241277819871.jpg",
     "10-永久/Excel在会计凭证与会计账簿中的应用.md",
-    "18-中国四大名酒/中国四大名酒.md",
     "Excalidraw/Pasted Image 20240227224949_664.png",
     "6-旅游/延安市/202209241241277819871.jpg",
     "9-乱七八糟的东西/团圆.jpg",
