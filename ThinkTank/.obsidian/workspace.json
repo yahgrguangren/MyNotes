@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 504,
-    "collapsed": true
+    "width": 368
   },
   "right": {
     "id": "1484d8767ff08815",
@@ -180,11 +179,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,15 +205,15 @@
   },
   "active": "0b8066278f9b84c2",
   "lastOpenFiles": [
-    "9-乱七八糟的东西/纪念周芷若.md",
+    "1-日志/MarkDown学习.md",
     "10-永久/未命名.md",
+    "9-乱七八糟的东西/纪念周芷若.md",
     "8-英语语言学习/英汉双语学习.md",
     "8-英语语言学习/常用单词/常用英文单词汇集.md",
     "github.com/v2ray/v2ray-core.md",
     "github.com/v2ray",
     "github.com",
     "17-中华名茗/茶叶六大分类.md",
-    "1-日志/MarkDown学习.md",
     "17-中华名茗/中国十大名茶.md",
     "10-永久/声音转文字.md",
     "Voice-2 1.mp3.md",
