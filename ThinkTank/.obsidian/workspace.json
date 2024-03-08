@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92468d6a418d4db5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14-历史文化学习/鹳雀楼.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30b14ddecb6353c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-旅游/旅行的益处.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0b8066278f9b84c2",
             "type": "leaf",
             "state": {
@@ -44,7 +20,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -95,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1484d8767ff08815",
@@ -206,6 +183,8 @@
   },
   "active": "2c76bcbdd1b633cf",
   "lastOpenFiles": [
+    "6-旅游/旅行的益处.md",
+    "14-历史文化学习/鹳雀楼.md",
     "12-政治经济学习/政治制度.md",
     "10-永久/色彩值列表.md",
     "18-中国四大名酒/西凤酒.md",
@@ -233,8 +212,6 @@
     "github.com/v2ray",
     "github.com",
     "17-中华名茗/茶叶六大分类.md",
-    "17-中华名茗/中国十大名茶.md",
-    "10-永久/声音转文字.md",
     "8-英语语言学习/录音/Voice-1.mp3",
     "8-英语语言学习/常用单词",
     "8-英语语言学习/录音",
