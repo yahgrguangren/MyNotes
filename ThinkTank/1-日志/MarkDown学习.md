@@ -192,4 +192,4 @@ $$△= \sqrt{b^{2}-4ac}/2$$
 | :-- | :-- | :-- |
 |     |     |     |
 |     |     |     |
-[[[]]](<![50](https://yahgr-1324491178.cos.ap-chengdu.myqcloud.com/202403082315253.png)>)
+![50](https://yahgr-1324491178.cos.ap-chengdu.myqcloud.com/gh.png)
