@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18-中国四大名酒/西凤酒.md",
+                "file": "12-政治经济学习/政治制度.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18-中国四大名酒/西凤酒.md",
+                "file": "12-政治经济学习/政治制度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18-中国四大名酒/西凤酒.md",
+                "file": "12-政治经济学习/政治制度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18-中国四大名酒/西凤酒.md"
+                "file": "12-政治经济学习/政治制度.md"
               }
             }
           },
@@ -205,17 +205,18 @@
   },
   "active": "0b8066278f9b84c2",
   "lastOpenFiles": [
+    "10-永久/色彩值列表.md",
+    "12-政治经济学习/政治制度.md",
+    "18-中国四大名酒/西凤酒.md",
     "18-中国四大名酒/茅台酒.md",
     "18-中国四大名酒/泸州老窖.md",
     "18-中国四大名酒/汾酒.md",
-    "12-政治经济学习/政治制度.md",
     "1-日志/MarkDown学习.md",
     "9-乱七八糟的东西/纪念周芷若.md",
     "12-政治经济学习/中国政治体制和现代政治到底差距.md",
     "15-菜谱/干煸肉丝.md",
     "15-菜谱/我的家常菜.md",
     "9-乱七八糟的东西/修改obsidian Git.md",
-    "10-永久/色彩.md",
     "15-菜谱/川菜.md",
     "15-菜谱/八大菜系.md",
     "15-菜谱/榨菜肉丝.md",
@@ -233,7 +234,6 @@
     "17-中华名茗/茶叶六大分类.md",
     "17-中华名茗/中国十大名茶.md",
     "10-永久/声音转文字.md",
-    "Voice-2 1.mp3.md",
     "8-英语语言学习/录音/Voice-1.mp3",
     "8-英语语言学习/常用单词",
     "8-英语语言学习/录音",
