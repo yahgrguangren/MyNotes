@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-旅游/旅行的益处.md",
-                "mode": "preview",
+                "file": "10-永久/色彩值列表.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 295
   },
   "right": {
     "id": "1484d8767ff08815",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-旅游/旅行的益处.md",
+                "file": "10-永久/色彩值列表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-旅游/旅行的益处.md",
+                "file": "10-永久/色彩值列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-旅游/旅行的益处.md"
+                "file": "10-永久/色彩值列表.md"
               }
             }
           },
@@ -182,9 +181,9 @@
   },
   "active": "7b8e66eec9f256e9",
   "lastOpenFiles": [
+    "6-旅游/旅行的益处.md",
     "9-乱七八糟的东西/纪念周芷若.md",
     "10-永久/色彩值列表.md",
-    "6-旅游/旅行的益处.md",
     "14-历史文化学习/鹳雀楼.md",
     "12-政治经济学习/政治制度.md",
     "18-中国四大名酒/西凤酒.md",
