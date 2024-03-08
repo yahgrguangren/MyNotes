@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,7 +204,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "0b8066278f9b84c2",
+  "active": "2c76bcbdd1b633cf",
   "lastOpenFiles": [
     "12-政治经济学习/政治制度.md",
     "10-永久/色彩值列表.md",
