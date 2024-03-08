@@ -35,11 +35,9 @@
             "id": "0b8066278f9b84c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "15-菜谱/四川菜.md",
-                "mode": "source",
-                "source": false
+                "file": "15-菜谱/中国名菜谱  四川风味  高清 电子书 pdf [云南省饮食服务公司编][中国财政经济出版社][1991.02][245页]sample.pdf"
               }
             }
           }
@@ -94,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368
+    "width": 200
   },
   "right": {
     "id": "1484d8767ff08815",
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15-菜谱/四川菜.md",
+                "file": "15-菜谱/中国名菜谱  四川风味  高清 电子书 pdf [云南省饮食服务公司编][中国财政经济出版社][1991.02][245页]sample.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15-菜谱/四川菜.md",
+                "file": "15-菜谱/中国名菜谱  四川风味  高清 电子书 pdf [云南省饮食服务公司编][中国财政经济出版社][1991.02][245页]sample.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15-菜谱/四川菜.md"
+                "file": "15-菜谱/中国名菜谱  四川风味  高清 电子书 pdf [云南省饮食服务公司编][中国财政经济出版社][1991.02][245页]sample.pdf"
               }
             }
           },
@@ -206,8 +204,8 @@
   },
   "active": "0b8066278f9b84c2",
   "lastOpenFiles": [
-    "15-菜谱/干煸肉丝.md",
     "15-菜谱/四川菜.md",
+    "15-菜谱/干煸肉丝.md",
     "15-菜谱/中国名菜谱  四川风味  高清 电子书 pdf [云南省饮食服务公司编][中国财政经济出版社][1991.02][245页]sample.pdf",
     "15-菜谱/榨菜肉丝.md",
     "15-菜谱/鱼香肉丝.md",
