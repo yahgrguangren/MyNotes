@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-永久/色彩值列表.md",
+                "file": "12-政治经济学习/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#0000CD",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-永久/色彩值列表.md",
+                "file": "12-政治经济学习/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-永久/色彩值列表.md",
+                "file": "12-政治经济学习/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-永久/色彩值列表.md"
+                "file": "12-政治经济学习/未命名.md"
               }
             }
           },
@@ -180,13 +179,17 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "2c76bcbdd1b633cf",
+  "active": "7b8e66eec9f256e9",
   "lastOpenFiles": [
+    "12-政治经济学习/政治制度.md",
+    "12-政治经济学习/未命名.md",
+    "15-菜谱/回锅肉.md",
+    "10-永久/色彩值列表.md",
+    "10-永久/声音转文字.md",
+    "9-乱七八糟的东西/团圆.jpg",
     "6-旅游/旅行的益处.md",
     "9-乱七八糟的东西/纪念周芷若.md",
-    "10-永久/色彩值列表.md",
     "14-历史文化学习/鹳雀楼.md",
-    "12-政治经济学习/政治制度.md",
     "18-中国四大名酒/西凤酒.md",
     "18-中国四大名酒/茅台酒.md",
     "18-中国四大名酒/泸州老窖.md",
@@ -200,17 +203,14 @@
     "15-菜谱/八大菜系.md",
     "15-菜谱/榨菜肉丝.md",
     "15-菜谱/中国名菜谱  四川风味  高清 电子书 pdf [云南省饮食服务公司编][中国财政经济出版社][1991.02][245页]sample.pdf",
-    "15-菜谱/回锅肉.md",
     "15-菜谱/盐煎肉.md",
     "15-菜谱/鱼香肉丝.md",
     "15-菜谱/青椒炒鸡蛋.md",
     "15-菜谱/川莱.md",
     "8-英语语言学习/常用单词/常用英文单词汇集.md",
     "8-英语语言学习/英汉双语学习.md",
-    "github.com/v2ray/v2ray-core.md",
     "github.com/v2ray",
     "github.com",
-    "17-中华名茗/茶叶六大分类.md",
     "8-英语语言学习/录音/Voice-1.mp3",
     "8-英语语言学习/常用单词",
     "8-英语语言学习/录音",
@@ -222,7 +222,6 @@
     "6-旅游/陕西省/延安市/202209241241277819871.jpg",
     "Excalidraw/Pasted Image 20240227224949_664.png",
     "6-旅游/延安市/202209241241277819871.jpg",
-    "9-乱七八糟的东西/团圆.jpg",
     "9-杂项/attachments/obsidian Git调试过程.png"
   ]
 }
