@@ -192,8 +192,6 @@ $$△= \sqrt{b^{2}-4ac}/2$$
 | :-- | :-- | :-- |
 |     |     |     |
 |     |     |     |
-![50](https://yahgr-1324491178.cos.ap-chengdu.myqcloud.com/gh.png)
+!
 
-
-
-
+ ==这个是什么==

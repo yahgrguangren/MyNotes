@@ -5,11 +5,6 @@
 .markdown-preview-view .mod-header .inline-title {
 	text-align: center;
 }
-/* 使Obsidian表格中的所有内容居中对齐 */
-.markdown-preview-view table th,
-.markdown-preview-view table td {
-  text-align: center;
-}
 /* 让 Markdown 的文本多彩多色  代码片段在默认主题及 Blue Topaz 主题中可正常使用 */
 
 #h/green ==green background with white text==
