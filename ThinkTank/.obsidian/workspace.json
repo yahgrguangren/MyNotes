@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9-乱七八糟的东西/经常使用的网址.md",
-                "mode": "source",
+                "file": "6-旅游/去过的地方.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9-乱七八糟的东西/经常使用的网址.md",
+                "file": "6-旅游/去过的地方.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9-乱七八糟的东西/经常使用的网址.md",
+                "file": "6-旅游/去过的地方.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9-乱七八糟的东西/经常使用的网址.md"
+                "file": "6-旅游/去过的地方.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -172,11 +172,15 @@
   },
   "active": "7b8e66eec9f256e9",
   "lastOpenFiles": [
-    "1-日志/MarkDown学习.md",
+    "模板/旅游笔记.md",
+    "6-旅游/陕西省/西安市/西安市.md",
+    "6-旅游/去过的地方.md",
+    "13-历史地理学习/新疆的南疆和北疆的划分.md",
+    "8-英语语言学习/常用单词/常用英文单词汇集.md",
     "9-乱七八糟的东西/经常使用的网址.md",
+    "1-日志/MarkDown学习.md",
     "10-永久/色彩值列表.md",
     "15-菜谱/榨菜肉丝.md",
-    "13-历史地理学习/新疆的南疆和北疆的划分.md",
     "15-菜谱/川菜.md",
     "15-菜谱/八大菜系.md",
     "12-政治经济学习/中国政治体制和现代政治到底差距.md",
@@ -195,11 +199,7 @@
     "9-乱七八糟的东西/纪念周芷若.md",
     "14-历史文化学习/鹳雀楼.md",
     "15-菜谱/干煸肉丝.md",
-    "15-菜谱/我的家常菜.md",
-    "9-乱七八糟的东西/修改obsidian Git.md",
     "15-菜谱/中国名菜谱  四川风味  高清 电子书 pdf [云南省饮食服务公司编][中国财政经济出版社][1991.02][245页]sample.pdf",
-    "15-菜谱/盐煎肉.md",
-    "15-菜谱/鱼香肉丝.md",
     "github.com/v2ray",
     "github.com",
     "8-英语语言学习/录音/Voice-1.mp3",
