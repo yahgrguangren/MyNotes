@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-永久/色彩值列表.md",
+                "file": "9-乱七八糟的东西/经常使用的网址.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-永久/色彩值列表.md",
+                "file": "9-乱七八糟的东西/经常使用的网址.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-永久/色彩值列表.md",
+                "file": "9-乱七八糟的东西/经常使用的网址.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-永久/色彩值列表.md"
+                "file": "9-乱七八糟的东西/经常使用的网址.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "7b8e66eec9f256e9",
   "lastOpenFiles": [
+    "1-日志/MarkDown学习.md",
     "9-乱七八糟的东西/经常使用的网址.md",
     "10-永久/色彩值列表.md",
     "15-菜谱/榨菜肉丝.md",
@@ -180,7 +181,6 @@
     "15-菜谱/八大菜系.md",
     "12-政治经济学习/中国政治体制和现代政治到底差距.md",
     "12-政治经济学习/三权分立.md",
-    "1-日志/MarkDown学习.md",
     "18-中国四大名酒/中国四大名酒.md",
     "18-中国四大名酒/西凤酒.md",
     "18-中国四大名酒/泸州老窖.md",
