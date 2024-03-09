@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18-中国四大名酒/中国四大名酒.md",
-                "mode": "source",
+                "file": "10-永久/色彩值列表.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295
+    "width": 448
   },
   "right": {
     "id": "1484d8767ff08815",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18-中国四大名酒/中国四大名酒.md",
+                "file": "10-永久/色彩值列表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18-中国四大名酒/中国四大名酒.md",
+                "file": "10-永久/色彩值列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18-中国四大名酒/中国四大名酒.md"
+                "file": "10-永久/色彩值列表.md"
               }
             }
           },
@@ -143,14 +143,6 @@
             "type": "leaf",
             "state": {
               "type": "oz-calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f6a68dedf73b4de4",
-            "type": "leaf",
-            "state": {
-              "type": "mxmind-view",
               "state": {}
             }
           }
@@ -175,20 +167,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "code-files:Create Code File": false,
-      "mxmind:Mxmind": false,
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
   "active": "7b8e66eec9f256e9",
   "lastOpenFiles": [
-    "18-中国四大名酒/西凤酒.md",
+    "15-菜谱/川菜.md",
+    "15-菜谱/八大菜系.md",
+    "12-政治经济学习/中国政治体制和现代政治到底差距.md",
+    "12-政治经济学习/三权分立.md",
+    "1-日志/MarkDown学习.md",
     "18-中国四大名酒/中国四大名酒.md",
+    "18-中国四大名酒/西凤酒.md",
     "18-中国四大名酒/泸州老窖.md",
     "18-中国四大名酒/茅台酒.md",
     "18-中国四大名酒/汾酒.md",
-    "12-政治经济学习/中国政治体制和现代政治到底差距.md",
     "12-政治经济学习/政治制度.md",
-    "12-政治经济学习/三权分立.md",
     "16-人物/约翰·洛克.md",
     "15-菜谱/回锅肉.md",
     "10-永久/色彩值列表.md",
@@ -197,12 +191,9 @@
     "6-旅游/旅行的益处.md",
     "9-乱七八糟的东西/纪念周芷若.md",
     "14-历史文化学习/鹳雀楼.md",
-    "1-日志/MarkDown学习.md",
     "15-菜谱/干煸肉丝.md",
     "15-菜谱/我的家常菜.md",
     "9-乱七八糟的东西/修改obsidian Git.md",
-    "15-菜谱/川菜.md",
-    "15-菜谱/八大菜系.md",
     "15-菜谱/榨菜肉丝.md",
     "15-菜谱/中国名菜谱  四川风味  高清 电子书 pdf [云南省饮食服务公司编][中国财政经济出版社][1991.02][245页]sample.pdf",
     "15-菜谱/盐煎肉.md",
