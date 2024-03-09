@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "tag:#0000CD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +180,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "7b8e66eec9f256e9",
+  "active": "2c76bcbdd1b633cf",
   "lastOpenFiles": [
     "6-旅游/旅行的益处.md",
     "9-乱七八糟的东西/纪念周芷若.md",
