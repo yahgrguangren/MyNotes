@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12-政治经济学习/未命名.md",
+                "file": "16-人物/约翰·洛克.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12-政治经济学习/未命名.md",
+                "file": "16-人物/约翰·洛克.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12-政治经济学习/未命名.md",
+                "file": "16-人物/约翰·洛克.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12-政治经济学习/未命名.md"
+                "file": "16-人物/约翰·洛克.md"
               }
             }
           },
@@ -181,8 +181,9 @@
   },
   "active": "7b8e66eec9f256e9",
   "lastOpenFiles": [
+    "12-政治经济学习/三权分立.md",
+    "16-人物/约翰·洛克.md",
     "12-政治经济学习/政治制度.md",
-    "12-政治经济学习/未命名.md",
     "15-菜谱/回锅肉.md",
     "10-永久/色彩值列表.md",
     "10-永久/声音转文字.md",
@@ -208,7 +209,6 @@
     "15-菜谱/青椒炒鸡蛋.md",
     "15-菜谱/川莱.md",
     "8-英语语言学习/常用单词/常用英文单词汇集.md",
-    "8-英语语言学习/英汉双语学习.md",
     "github.com/v2ray",
     "github.com",
     "8-英语语言学习/录音/Voice-1.mp3",
