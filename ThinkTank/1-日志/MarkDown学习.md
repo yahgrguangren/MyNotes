@@ -185,22 +185,30 @@ $$△= \sqrt{b^{2}-4ac}/2$$
 >  *Everything* is going according to **plan**.
 
 
-# 1. <font color=green size=5>绿茶</font>
-
-
-|     |     |     |
-| :-- | :-- | :-- |
-|     |     |     |
-|     |     |     |
-<p style="text-align:center;color:#FFB6C1;font-size:1.1em;">
-文字居中显示
-</p>
+# 1. <font color=green size=5>标题带色</font>
 
 
 
- ==这个是什么==
+
+```
  <p style="text-align:center;color:#1e819e;font-size:1.3em;font-weight: bold;">
 第一行文字居中显示
 <br/>
 第二行文字居中显示
+</p>
+```
+
+ <p style="text-align:center;color:#1e819e;font-size:1.3em;font-weight: bold;">
+第一行文字居中显示
+<br/>
+第二行文字居中显示
+</p>
+
+```
+<p style="text-align:center;color:#FFB6C1;font-size:1.1em;">
+文字居中显示
+</p>
+```
+<p style="text-align:center;color:#FFB6C1;font-size:1.1em;">
+文字居中显示
 </p>
