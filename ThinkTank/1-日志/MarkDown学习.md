@@ -192,8 +192,15 @@ $$△= \sqrt{b^{2}-4ac}/2$$
 | :-- | :-- | :-- |
 |     |     |     |
 |     |     |     |
-
+<p style="text-align:center;color:#FFB6C1;font-size:1.1em;">
+文字居中显示
+</p>
 
 
 
  ==这个是什么==
+ <p style="text-align:center;color:#1e819e;font-size:1.3em;font-weight: bold;">
+第一行文字居中显示
+<br/>
+第二行文字居中显示
+</p>
