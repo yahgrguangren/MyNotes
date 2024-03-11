@@ -73,11 +73,16 @@
 段落后的空行表明上一个段落结束！！[^3]这是第3个脚注
 段落后的空行表明上一个段落结束！！[^4]这是第4个脚注
 
+```
+==在文章结束的后面可以看到各个脚注的解释==
+/*背景是使用了css中的定义*/
+```
+
 ==在文章结束的后面可以看到各个脚注的解释==[^5]在文章结束的后面可以看到各个脚注的解释
 
 [^3]:
 [^4]:一定要在段落后面释放脚注，否则脚注会失效！！！
-[^5]:在文章结束的后面可以看到各个脚注的解释
+[^5]:这里是角住的释放也是角注的内容
 # 插入图片(![Engelbart]+!+两个方括号括住的图片名)
 ![Engelbart]![[Pasted Image 20240227224949_664.png]]
 
@@ -93,24 +98,19 @@
 
 [跳转到字体加粗](#字体加粗)
 
-
-
-
-:+1:
-: smile :
-:-1:
-:clap:
-:laughing:
 # 公式的书写（两个美元符号之间）
+
 ```math
 $e^{ix} = cosx + isinx$
 $c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}}$
+$$△= \sqrt{b^{2}-4ac}/2$$
+/*双美元号可以居中公式*/
 ```
 $e^{ix} = cosx + isinx$
 $$ c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}} $$
 $c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}}$
 
-$$△= \sqrt{b^{2}-4ac}/2$$
+$$△= {(-b±\sqrt{b^{2}-4ac})}/2a$$
 
 # 转义字符（\\+转义字符）
 `\+转义字符`
@@ -124,17 +124,41 @@ $$△= \sqrt{b^{2}-4ac}/2$$
 <font color=#008000 size=8>中文</font> 
 # <font color=red size=6>链接</font>
 
-例如：
-文字链接：[我的个人网站](https://www.silinchen.com "技术学习、研究、分享")
+文字链接：[我的个人网站](https://www.silinchen.com "学习、研究、分享")
 纯链接：<https://www.silinchen.com>
 邮箱：<fake@example.com>
 
 # URL 和电子邮件地址(放在`<>`之间)
+```
+文字链接：[我的个人网站](https://www.silinchen.com "学习、研究、分享")
+纯链接：<https://www.markdownguide.org>
+邮箱：<fake@example.com>
+```
 
 <https://www.markdownguide.org>
 <fake@example.com>
 
+## 使用背景色
 
+<table><tr><td bgcolor=yellow ><font color=red>背景黄色，前景红色</font></td></tr></table>
+
+```
+<table><tr><td bgcolor=yellow><font color=red>背景黄色，前景红色</font></td></tr></table>
+/*obsidian只能支持html的部分标签*/
+```
+
+<font face="黑体">我是黑体字</font>
+<font face="微软雅黑">我是微软雅黑</font>
+<font face="微软雅黑">我是微软雅黑</font>
+<font face="STCAIYUN">我是华文彩云</font>
+<font color=red>我是红色</font>
+<font color=#008000>我是绿色</font>
+<font color=Blue>我是蓝色</font>
+<font size=5>我是尺寸</font>
+<font face="黑体" color=green size=4>我是黑体，绿色，尺寸为4</font>
+<font color=#008000 size=5>在文中其他任意地方定义链接地址, title 可选。一般定义在使用到超链接的段落后面，或集中在文件结尾:</font>
+
+```字体
 <font face="黑体">我是黑体字</font>
 <font face="微软雅黑">我是微软雅黑</font>
 <font face="STCAIYUN">我是华文彩云</font>
@@ -143,10 +167,10 @@ $$△= \sqrt{b^{2}-4ac}/2$$
 <font color=Blue>我是蓝色</font>
 <font size=5>我是尺寸</font>
 <font face="黑体" color=green size=4>我是黑体，绿色，尺寸为4</font>
-
 <font color=#008000 size=5>在文中其他任意地方定义链接地址, title 可选。一般定义在使用到超链接的段落后面，或集中在文件结尾:</font>
 
-<table><tr><td bgcolor=yellow ><font color=red>背景黄色，前景红色</font></td></tr></table>
+```
+
 
 ```
 > Dorothy followed her through many of the beautiful rooms in her castle.
@@ -169,6 +193,7 @@ $$△= \sqrt{b^{2}-4ac}/2$$
 
 
 # 与其他元素的块引用
+
 ```
 > #### The quarterly results look great!
 >
@@ -187,8 +212,18 @@ $$△= \sqrt{b^{2}-4ac}/2$$
 
 # 1. <font color=green size=5>标题带色</font>
 
+```
+# 1. <font color=green size=5>标题带色</font>
+/*标题带色*/
+```
 
+# 2.文字居中
 
+ <p style="text-align:center;color:#1e819e;font-size:1.3em;font-weight: bold;">
+第一行文字居中显示
+<br/>
+第二行文字居中显示
+</p>
 
 ```
  <p style="text-align:center;color:#1e819e;font-size:1.3em;font-weight: bold;">
@@ -198,10 +233,8 @@ $$△= \sqrt{b^{2}-4ac}/2$$
 </p>
 ```
 
- <p style="text-align:center;color:#1e819e;font-size:1.3em;font-weight: bold;">
-第一行文字居中显示
-<br/>
-第二行文字居中显示
+<p style="text-align:center;color:#FFB6C1;font-size:1.1em;">
+文字居中显示
 </p>
 
 ```
@@ -209,6 +242,3 @@ $$△= \sqrt{b^{2}-4ac}/2$$
 文字居中显示
 </p>
 ```
-<p style="text-align:center;color:#FFB6C1;font-size:1.1em;">
-文字居中显示
-</p>
