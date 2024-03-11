@@ -1,4 +1,4 @@
-2024-02-25
+[[色彩值列表]]2024-02-25
 # 标题(标题前加#+空格)
 # 标题-1
 ## 标题-2
@@ -104,7 +104,7 @@
 ```math
 $e^{ix} = cosx + isinx$
 $c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}}$
-$$△= \sqrt{b^{2}-4ac}/2$$
+$$△= {(-b±\sqrt{b^{2}-4ac})}/2a$$
 /*双美元号可以居中公式*/
 ```
 $e^{ix} = cosx + isinx$
@@ -126,7 +126,7 @@ $$△= {(-b±\sqrt{b^{2}-4ac})}/2a$$
 # <font color=red size=6>链接</font>
 
 文字链接：[我的个人网站](https://www.silinchen.com "学习、研究、分享")
-纯链接：<https://www.silinchen.com>
+纯链接：<https://1.1.1.1/>
 邮箱：<fake@example.com>
 
 # URL 和电子邮件地址(放在`<>`之间)
