@@ -232,13 +232,33 @@ $$△= {(-b±\sqrt{b^{2}-4ac})}/2a$$
 第二行文字居中显示
 </p>
 ```
-
 <p style="text-align:center;color:#FFB6C1;font-size:1.1em;">
 文字居中显示
 </p>
-
 ```
 <p style="text-align:center;color:#FFB6C1;font-size:1.1em;">
 文字居中显示
 </p>
 ```
+<p style="text-align:right;color:#FFB6C1;font-size:1.2em;">
+文字右对齐显示
+</p>
+
+```
+<p style="text-align:right;color:#FFB6C1;font-size:1.2em;">
+文字右对齐显示
+</p>
+```
+
+<p style="text-align:left;color:#FFB6C1;font-size:1.2em;">
+文字左对齐显示
+</p>
+
+```
+<p style="text-align:left;color:#FFB6C1;font-size:1.2em;">
+文字左对齐显示
+</p>
+
+```
+
+
