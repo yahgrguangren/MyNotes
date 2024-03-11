@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-日志/MarkDown学习.md",
-                "mode": "source",
+                "file": "9-乱七八糟的东西/一行命令连接世界.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日志/MarkDown学习.md",
+                "file": "9-乱七八糟的东西/一行命令连接世界.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日志/MarkDown学习.md",
+                "file": "9-乱七八糟的东西/一行命令连接世界.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日志/MarkDown学习.md"
+                "file": "9-乱七八糟的东西/一行命令连接世界.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "7b8e66eec9f256e9",
   "lastOpenFiles": [
-    "9-乱七八糟的东西/一行命令连接世界.md",
     "1-日志/MarkDown学习.md",
+    "9-乱七八糟的东西/一行命令连接世界.md",
     "9-乱七八糟的东西/纪念周芷若.md",
     "6-旅游/去过的地方.md",
     "9-乱七八糟的东西/经常使用的网址.md",
