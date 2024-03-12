@@ -119,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名.md"
+              }
             }
           },
           {
@@ -161,8 +163,9 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "a4109b54a464ff87",
+  "active": "218b55ff1ffd10f7",
   "lastOpenFiles": [
+    "未命名.md",
     "模板/旅游笔记.md",
     "9-乱七八糟的东西/经常使用的网址.md",
     "18-中国四大名酒/国家白酒标准.md",
@@ -191,7 +194,6 @@
     "10-永久/Excel在会计凭证与会计账簿中的应用.md",
     "9-乱七八糟的东西/Cloudflare.md",
     "9-乱七八糟的东西/订阅链接.md",
-    "2-闪念/工作时长与权利.md",
     "9-乱七八糟的东西/团圆.jpg",
     "15-菜谱/中国名菜谱  四川风味  高清 电子书 pdf [云南省饮食服务公司编][中国财政经济出版社][1991.02][245页]sample.pdf",
     "8-英语语言学习/录音/Voice-1.mp3",
