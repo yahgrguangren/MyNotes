@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16-人物/苏轼.md",
+                "file": "16-人物/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "16-人物/苏轼.md",
+                "file": "16-人物/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "16-人物/苏轼.md",
+                "file": "16-人物/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "16-人物/苏轼.md"
+                "file": "16-人物/未命名.md"
               }
             }
           },
@@ -171,11 +171,13 @@
   },
   "active": "a4109b54a464ff87",
   "lastOpenFiles": [
-    "诗词学习/《水调歌头·明月几时有》.md",
+    "20-诗词学习/《将进酒》.md",
+    "16-人物/未命名.md",
+    "20-诗词学习/《水调歌头·明月几时有》.md",
     "16-人物/苏轼.md",
     "1-日志/MarkDown.md",
     "10-永久/声音转文字.md",
-    "诗词学习",
+    "20-诗词学习",
     "1-日志/团圆.jpg][50.md",
     "10-永久/Obsidian基本设置.md",
     "9-乱七八糟的东西/经常使用的网址.md",
@@ -198,8 +200,6 @@
     "18-中国四大名酒/国家白酒标准.md",
     "10-永久/色彩值列表.md",
     "18-中国四大名酒/未命名.md",
-    "18-中国四大名酒/中国四大名酒.md",
-    "5-程序/去除快捷方式角标.md",
     "19-文章学习",
     "github.com/v2ray",
     "github.com",
