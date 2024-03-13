@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "诗词学习/《水调歌头·明月几时有》.md",
+                "file": "16-人物/苏轼.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "诗词学习/《水调歌头·明月几时有》.md",
+                "file": "16-人物/苏轼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "诗词学习/《水调歌头·明月几时有》.md",
+                "file": "16-人物/苏轼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "诗词学习/《水调歌头·明月几时有》.md"
+                "file": "16-人物/苏轼.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "a4109b54a464ff87",
   "lastOpenFiles": [
-    "16-人物/苏轼.md",
     "诗词学习/《水调歌头·明月几时有》.md",
+    "16-人物/苏轼.md",
     "1-日志/MarkDown.md",
     "10-永久/声音转文字.md",
     "诗词学习",
