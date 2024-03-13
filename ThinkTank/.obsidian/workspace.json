@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-日志/MarkDown学习.md",
+                "file": "10-永久/声音转文字.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日志/MarkDown学习.md",
+                "file": "10-永久/声音转文字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日志/MarkDown学习.md",
+                "file": "10-永久/声音转文字.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日志/MarkDown学习.md"
+                "file": "10-永久/声音转文字.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "a4109b54a464ff87",
   "lastOpenFiles": [
+    "1-日志/MarkDown学习.md",
     "9-乱七八糟的东西/经常使用的网址.md",
     "10-永久/声音转文字.md",
     "模板/旅游笔记.md",
@@ -191,7 +192,6 @@
     "文章学习/国民革命军抗日血战出师表.md",
     "18-中国四大名酒/国家白酒标准.md",
     "10-永久/色彩值列表.md",
-    "1-日志/MarkDown学习.md",
     "18-中国四大名酒/未命名.md",
     "18-中国四大名酒/中国四大名酒.md",
     "5-程序/去除快捷方式角标.md",
