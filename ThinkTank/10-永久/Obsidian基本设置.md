@@ -10,6 +10,7 @@
 8、Text Snippets
 9、Excalidraw
 10、Remotely Save 用于同传到腾讯云
+11、Editing toolbar 用于改变前景、背景色与编辑排版
 # 二、安装的配合软件
 PicGo图片自动上传程序，设置了腾讯云COS图床，并在腾讯云上设置了存储桶
 yahgr-1324491178
