@@ -266,4 +266,4 @@ $$△= {(-b±\sqrt{b^{2}-4ac})}/2a$$
 <span style="background:#ff4d4f"><font color="#f79646"><font color="#c3d69b">标题带色</font></font></span>
 
 
-[[团圆.jpg] [50]]
+![[团圆.jpg|200]]![[团圆.jpg|200]]![[团圆.jpg|200]]![[团圆.jpg|200]]![[团圆.jpg|200]]![[
