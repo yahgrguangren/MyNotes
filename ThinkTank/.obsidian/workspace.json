@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-日志/MarkDown.md",
+                "file": "10-永久/声音转文字.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日志/MarkDown.md",
+                "file": "10-永久/声音转文字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日志/MarkDown.md",
+                "file": "10-永久/声音转文字.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日志/MarkDown.md"
+                "file": "10-永久/声音转文字.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "a4109b54a464ff87",
   "lastOpenFiles": [
-    "1-日志/团圆.jpg][50.md",
     "1-日志/MarkDown.md",
+    "1-日志/团圆.jpg][50.md",
     "10-永久/Obsidian基本设置.md",
     "10-永久/声音转文字.md",
     "9-乱七八糟的东西/经常使用的网址.md",
