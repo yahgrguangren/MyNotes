@@ -137,7 +137,11 @@ $$40\degree \sim \sim \sim 360\degree$$
 # 大型括号
 
 ```
-$$ z= \left\{ \left[ \left(\begin{aligned} a=&1 \\ &b=2 \\ c=&3 \end{aligned} \right) \right] \right\} $$
+$$ z= \left\{ \left[ \left( \begin{aligned} 
+a=&1 \\ 
+&b=2 \\ 
+c=&3 \\
+\end{aligned} \right) \right] \right\} $$
 
 ```
 $$ z= \left\{ \left[ \left( \begin{aligned} 
@@ -265,7 +269,7 @@ a&b&c\\
 - 斜省略号：`\ddots`
 
 
-```text
+```省略元素
 $$\begin{bmatrix}
 {a_{11}}&{a_{12}}&{\cdots}&{a_{1n}}\\
 {a_{21}}&{a_{22}}&{\cdots}&{a_{2n}}\\
@@ -281,6 +285,32 @@ $$\begin{bmatrix}
 {a_{m1}}&{a_{m2}}&{\cdots}&{a_{mn}}\\
 \end{bmatrix}$$
 
+
+## 4. 阵列
+
+- 需要array环境：起始、结束处以{array}声明
+- 对齐方式：在{array}后以{}逐行统一声明
+- 左对齐：`l`；居中：`c`；右对齐：`r`
+- 竖直线：在声明对齐方式时，插入 `|` 建立竖直线
+- 插入水平线：`\hline`
+
+举例：
+
+```text
+$$\begin{array}{c|lll}
+{↓}&{a}&{b}&{c}\\
+\hline
+{R_1}&{c}&{b}&{a}\\
+{R_2}&{b}&{c}&{c}\\
+\end{array}$$
+```
+
+$$\begin{array}{r|1ll}
+{↓}&{a}&{b}&{c}\\
+\hline
+{R_1}&{c}&{b}&{a}\\
+{R_2}&{b}&{c}&{c}\\
+\end{array}$$
 
 # 转义字符（\\+转义字符）
 `\+转义字符`
