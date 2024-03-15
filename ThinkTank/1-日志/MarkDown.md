@@ -294,7 +294,6 @@ $$\begin{bmatrix}
 - 竖直线：在声明对齐方式时，插入 `|` 建立竖直线
 - 插入水平线：`\hline`
 
-举例：
 
 ```text
 $$\begin{array}{c|lll}
@@ -305,12 +304,32 @@ $$\begin{array}{c|lll}
 \end{array}$$
 ```
 
-$$\begin{array}{r|1ll}
+$$\begin{array}{c|lll}
 {↓}&{a}&{b}&{c}\\
 \hline
 {R_1}&{c}&{b}&{a}\\
 {R_2}&{b}&{c}&{c}\\
 \end{array}$$
+
+## 5. 方程组
+
+ 需要cases环境：起始、结束处以{cases}声明
+
+
+```方程组
+$$\begin{cases}
+a_1x+b_1y+c_1z=d_1\\
+a_2x+b_2y+c_2z=d_2\\
+a_3x+b_3y+c_3z=d_3\\
+\end{cases}
+$$
+```
+
+$$\begin{cases}
+a_1x+b_1y+c_1z=d_1\\
+a_2x+b_2y+c_2z=d_2\\
+a_3x+b_3y+c_3z=d_3\\
+\end{cases}$$
 
 # 转义字符（\\+转义字符）
 `\+转义字符`
