@@ -277,10 +277,10 @@ $$△= {(-b±\sqrt{b^{2}-4ac})}/2a$$
 # MP3、MP4的插入
 
 ```
-![[ttsmaker-file-2024-3-15-8-35-8.mp3]]
+![[Voice-1.mp3]]
 ```
 
-![[ttsmaker-file-2024-3-15-8-35-8.mp3]]
+![[Voice-1.mp3]]
 
 
 
