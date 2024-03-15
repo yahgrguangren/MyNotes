@@ -136,7 +136,7 @@ $$40\degree \sim \sim \sim 360\degree$$
 $$40\degree \sim \sim \sim 360\degree$$
 # 大型括号
 
-
+$$z=$$
 
 # 转义字符（\\+转义字符）
 `\+转义字符`
