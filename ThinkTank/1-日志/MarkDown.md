@@ -108,6 +108,7 @@ $e^{ix} = cosx + isinx$
 $c = \sqrt{a^{2}+b_{xy}^{2}+e^{x}}$
 $$△= {(-b±\sqrt{b^{2}-4ac})}/2a$$
 $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$
+$$ X= \sqrt[5]{123+y+z}$$
 
 /*双美元号可以居中公式*/
 ```
@@ -121,6 +122,9 @@ $$△= {(-b±\sqrt{b^{2}-4ac})}/2a$$
 $$f(x) = \int_{-\infty}^{x} e^{-t^2} dt$$
 
 
+$$ X= \sqrt[5]{123+y+z}$$
+
+$$ Y(x)= \left\{\begin{aligned} a\\b\\c\\78 \end{aligned}}$$
 
 # 转义字符（\\+转义字符）
 `\+转义字符`
