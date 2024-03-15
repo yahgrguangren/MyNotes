@@ -136,7 +136,20 @@ $$40\degree \sim \sim \sim 360\degree$$
 $$40\degree \sim \sim \sim 360\degree$$
 # 大型括号
 
-$$z=$$
+```
+$$ z= \left\{ \left[ \left(\begin{aligned} a=&1 \\ &b=2 \\ c=&3 \end{aligned} \right) \right] \right\} $$
+
+```
+$$ z= \left\{ \left[ \left(\begin{aligned} a=&1 \\ &b=2 \\ c=&3 \end{aligned} \right) \right] \right\} $$
+
+# 约等于
+
+```
+$$\pi \approx 3.14$$
+$$\XYZ \approx 100.123$$
+```
+$$\pi \approx 3.14$$
+$$XYZ \approx 100.123+x$$
 
 # 转义字符（\\+转义字符）
 `\+转义字符`
