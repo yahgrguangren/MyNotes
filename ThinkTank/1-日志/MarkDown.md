@@ -140,7 +140,11 @@ $$40\degree \sim \sim \sim 360\degree$$
 $$ z= \left\{ \left[ \left(\begin{aligned} a=&1 \\ &b=2 \\ c=&3 \end{aligned} \right) \right] \right\} $$
 
 ```
-$$ z= \left\{ \left[ \left(\begin{aligned} a=&1 \\ &b=2 \\ c=&3 \end{aligned} \right) \right] \right\} $$
+$$ z= \left\{ \left[ \left( \begin{aligned} 
+a=&1 \\ 
+&b=2 \\ 
+c=&3 \\
+\end{aligned} \right) \right] \right\} $$
 
 # 约等于
 
@@ -158,7 +162,6 @@ $$XYZ \approx 100.123+x$$
 - 起始标记 `\begin{matrix}`，结束标记 `\end{matrix}` 。
 - 每一行末尾标记 `\\`，行间元素之间用 `&` 分隔。
 
-举例：
 
 ```text
 $$\begin{matrix}
@@ -242,12 +245,42 @@ a&b&c\\
 \end{vmatrix}$$
 
 ```双竖线边框
-$$\begin{vmatrix}
+$$\begin{Vmatrix}
 1&2&3\\
 2&3&4\\
 a&b&c\\
-\end{vmatrix}$$
+\end{Vmatrix}$$
 ```
+
+$$\begin{Vmatrix}
+1&2&3\\
+2&3&4\\
+a&b&c\\
+\end{Vmatrix}$$
+
+## 3. 省略元素
+
+- 横省略号：`\cdots`
+- 竖省略号：`\vdots`
+- 斜省略号：`\ddots`
+
+
+```text
+$$\begin{bmatrix}
+{a_{11}}&{a_{12}}&{\cdots}&{a_{1n}}\\
+{a_{21}}&{a_{22}}&{\cdots}&{a_{2n}}\\
+{\vdots}&{\vdots}&{\ddots}&{\vdots}\\
+{a_{m1}}&{a_{m2}}&{\cdots}&{a_{mn}}\\
+\end{bmatrix}$$
+```
+
+$$\begin{bmatrix}
+{a_{11}}&{a_{12}}&{\cdots}&{a_{1n}}\\
+{a_{21}}&{a_{22}}&{\cdots}&{a_{2n}}\\
+{\vdots}&{\vdots}&{\ddots}&{\vdots}\\
+{a_{m1}}&{a_{m2}}&{\cdots}&{a_{mn}}\\
+\end{bmatrix}$$
+
 
 # 转义字符（\\+转义字符）
 `\+转义字符`
