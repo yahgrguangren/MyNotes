@@ -2,5 +2,6 @@
   "newFileLocation": "current",
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "./",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
