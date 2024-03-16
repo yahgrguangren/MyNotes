@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-日志/MarkDown.md",
+                "file": "5-程序/work.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日志/MarkDown.md",
+                "file": "5-程序/work.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日志/MarkDown.md",
+                "file": "5-程序/work.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日志/MarkDown.md"
+                "file": "5-程序/work.js.md"
               }
             }
           },
@@ -171,8 +171,10 @@
   },
   "active": "a4109b54a464ff87",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
+    "9-乱七八糟的东西/Cloudflare.md",
     "1-日志/MarkDown.md",
+    "模板/flowchart.js.md",
+    "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
     "21-周易六爻预测学/周易六爻预测学.md",
     "21-周易六爻预测学/六十四卦卦序歌.md",
     "Excalidraw/Pasted Image 20240227224949_664.png",
@@ -201,8 +203,6 @@
     "16-人物/曹雪芹.md",
     "6-旅游/陕西省/铜川市",
     "17-中华名茗/信阳毛尖.md",
-    "未命名.md",
-    "202403122107.md",
     "19-文章学习",
     "github.com/v2ray",
     "github.com",
