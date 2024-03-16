@@ -60,6 +60,38 @@
 
 [在线markdown练习与学习](https://www.zybuluo.com/mdeditor)
 
+```flow
+st=>start: Start
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
+flow
+st=>start: Start
+io=>inputoutput: verification
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+sub=>subroutine: Your Subroutine
+e=>end
+
+st->io->op->cond
+cond(yes)->e
+cond(no)->sub->io
+
+
+
+
+
+
+
+
+
+
 ![[Drawing 2024-02-26 08.38.07.excalidraw]]
 
 
@@ -330,6 +362,25 @@ a_1x+b_1y+c_1z=d_1\\
 a_2x+b_2y+c_2z=d_2\\
 a_3x+b_3y+c_3z=d_3\\
 \end{cases}$$
+
+
+# Latex公式
+
+```
+
+
+```
+
+$$\sum_{i=1}^n a_i=0$$
+
+$$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$
+
+$$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
+
+
+
+
+
 
 # 转义字符（\\+转义字符）
 `\+转义字符`
