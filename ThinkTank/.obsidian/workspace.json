@@ -11,11 +11,9 @@
             "id": "a4109b54a464ff87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1-日志/MarkDown.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日志/MarkDown.md",
+                "file": "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日志/MarkDown.md",
+                "file": "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日志/MarkDown.md"
+                "file": "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md"
               }
             }
           },
@@ -171,8 +169,8 @@
   },
   "active": "a4109b54a464ff87",
   "lastOpenFiles": [
-    "21-周易六爻预测学/周易六爻预测学.md",
     "1-日志/MarkDown.md",
+    "21-周易六爻预测学/周易六爻预测学.md",
     "Excalidraw/Drawing 2024-02-26 08.38.07.excalidraw.md",
     "21-周易六爻预测学/六十四卦卦序歌.md",
     "Excalidraw/Pasted Image 20240227224949_664.png",
