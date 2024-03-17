@@ -189,7 +189,6 @@ $$XYZ \approx 100.123+x$$
 - 起始标记 `\begin{matrix}`，结束标记 `\end{matrix}` 。
 - 每一行末尾标记 `\\`，行间元素之间用 `&` 分隔。
 
-
 ```text
 $$\begin{matrix}
 0&1&1\\
@@ -203,7 +202,6 @@ $$\begin{matrix}
 1&1&0\\
 1&0&1\\
 \end{matrix}$$
-
 
 
 ## 2. 矩阵边框
@@ -221,7 +219,6 @@ $$\begin{pmatrix}
 1&1&0\\
 1&0&1\\
 \end{pmatrix}$$
-
 ```
 
 $$\begin{pmatrix}
@@ -236,7 +233,6 @@ $$\begin{bmatrix}
 3&4&5\\
 a&b&c\\
 \end{bmatrix}$$
-
 ```
 $$\begin{bmatrix}
 0&1&2\\
@@ -291,7 +287,6 @@ a&b&c\\
 - 竖省略号：`\vdots`
 - 斜省略号：`\ddots`
 
-
 ```省略元素
 $$\begin{bmatrix}
 {a_{11}}&{a_{12}}&{\cdots}&{a_{1n}}\\
@@ -308,7 +303,6 @@ $$\begin{bmatrix}
 {a_{m1}}&{a_{m2}}&{\cdots}&{a_{mn}}\\
 \end{bmatrix}$$
 
-
 ## 4. 阵列
 
 - 需要array环境：起始、结束处以{array}声明
@@ -317,8 +311,7 @@ $$\begin{bmatrix}
 - 竖直线：在声明对齐方式时，插入 `|` 建立竖直线
 - 插入水平线：`\hline`
 
-
-```text
+```阵列
 $$\begin{array}{c|lll}
 {↓}&{a}&{b}&{c}\\
 \hline
@@ -357,9 +350,9 @@ a_3x+b_3y+c_3z=d_3\\
 
 # Latex公式
 
-```
+```Latex公式
 $$\sum_{i=1}^n a_i=0$$ 
- $$\sum^n_{i=1} a_i=0$$
+$$\sum^n_{i=1} a_i=0$$
 
 $$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$
 
@@ -373,9 +366,6 @@ $$\sum_{i=1}^n a_i=0$$
 $$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$
 
 $$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
-
-
-
 
 
 
@@ -409,7 +399,7 @@ $$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
 
 <table><tr><td bgcolor=yellow ><font color=red>背景黄色，前景红色</font></td></tr></table>
 
-```
+```使用背景色
 <table><tr><td bgcolor=yellow><font color=red>背景黄色，前景红色</font></td></tr></table>
 /*obsidian只能支持html的部分标签*/
 ```
@@ -439,11 +429,13 @@ $$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
 ```
 
 
+
+# 强调（`由>开始`）
+
 ```
 > Dorothy followed her through many of the beautiful rooms in her castle.
 /*强调*/
 ```
-# 强调（`由>开始`）
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
