@@ -13,5 +13,6 @@
   "remotely-save",
   "inline-admonitions",
   "code-files",
-  "editing-toolbar"
+  "editing-toolbar",
+  "mermaid-tools"
 ]
