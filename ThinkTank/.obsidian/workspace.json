@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-读书/远东的线索.md",
+                "file": "22-实时动态/ChatGPT为什么出现在美国.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-读书/远东的线索.md",
+                "file": "22-实时动态/ChatGPT为什么出现在美国.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "24-读书/远东的线索.md",
+                "file": "22-实时动态/ChatGPT为什么出现在美国.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24-读书/远东的线索.md"
+                "file": "22-实时动态/ChatGPT为什么出现在美国.md"
               }
             }
           },
@@ -171,7 +171,8 @@
   },
   "active": "e98e9c3951205891",
   "lastOpenFiles": [
-    "22-实时动态/未命名.md",
+    "22-实时动态/为什么ChatGPT出现在美国.md",
+    "22-实时动态/ChatGPT为什么出现在美国.md",
     "24-读书/远东的线索.md",
     "24-读书/中国皇帝全传.pdf",
     "24-读书/金融学.pdf",
@@ -196,7 +197,6 @@
     "9-杂项货柜/一行命令连接世界.md",
     "24-读书/对退休人员的掏心窝子的话.md",
     "9-杂项货柜/Cloudflare.md",
-    "22-实时动态/ChatGPT为什么出现在美国.md",
     "9-杂项货柜/修改obsidian Git.md",
     "24-读书",
     "9-杂项货柜",
