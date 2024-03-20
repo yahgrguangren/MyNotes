@@ -11,22 +11,15 @@
             "id": "e98e9c3951205891",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9f974affc11f571e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "25-殡葬文化/灵棚对联.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -93,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "25-殡葬文化/灵棚对联.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "25-殡葬文化/灵棚对联.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "25-殡葬文化/灵棚对联.md"
+              }
             }
           },
           {
@@ -172,7 +169,7 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "9f974affc11f571e",
+  "active": "e98e9c3951205891",
   "lastOpenFiles": [
     "25-殡葬文化/灵棚对联.md",
     "25-殡葬文化/丧葬文化.md",
