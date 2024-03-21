@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "46a47f3e2ed161b8",
+        "id": "162fdaceac606fa2",
         "type": "tabs",
         "children": [
           {
-            "id": "28af364ac5ac897b",
+            "id": "59d58c9cadf3ea74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-日志/MarkDown.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日志/MarkDown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日志/MarkDown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1-日志/MarkDown.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,7 +161,7 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "28af364ac5ac897b",
+  "active": "59d58c9cadf3ea74",
   "lastOpenFiles": [
     "1-日志/Untitled Diagram.svg",
     "1-日志/MarkDown.md",

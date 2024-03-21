@@ -546,3 +546,4 @@ $$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
 
 
 
+![[1-日志/Untitled Diagram.svg]]
