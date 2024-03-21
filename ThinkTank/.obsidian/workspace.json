@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c092577eaa0a1b11",
+            "id": "28af364ac5ac897b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "15-菜谱/中国名菜谱  北京风味  高清 电子书 pdf [北京市饮食服务总公司，北京市旅游事业管理局编写][中国财政经济出版社][1988][255页]sample.pdf"
+                "file": "1-日志/MarkDown.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15-菜谱/中国名菜谱  北京风味  高清 电子书 pdf [北京市饮食服务总公司，北京市旅游事业管理局编写][中国财政经济出版社][1988][255页]sample.pdf",
+                "file": "1-日志/MarkDown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15-菜谱/中国名菜谱  北京风味  高清 电子书 pdf [北京市饮食服务总公司，北京市旅游事业管理局编写][中国财政经济出版社][1988][255页]sample.pdf",
+                "file": "1-日志/MarkDown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15-菜谱/中国名菜谱  北京风味  高清 电子书 pdf [北京市饮食服务总公司，北京市旅游事业管理局编写][中国财政经济出版社][1988][255页]sample.pdf"
+                "file": "1-日志/MarkDown.md"
               }
             }
           },
@@ -176,8 +178,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c092577eaa0a1b11",
+  "active": "28af364ac5ac897b",
   "lastOpenFiles": [
+    "9-杂项货柜/2016年最好的彩票广告.md",
+    "15-菜谱/中国名菜谱  北京风味  高清 电子书 pdf [北京市饮食服务总公司，北京市旅游事业管理局编写][中国财政经济出版社][1988][255页]sample.pdf",
+    "15-菜谱/未命名 1.md",
     "15-菜谱/中国名菜谱  安徽风味  高清 电子书 pdf [杨东起主编；安徽省饮食服务公司编写][中国财政经济出版社][1988.06][243页]sample.pdf",
     "1-日志/青年十不现象.md",
     "1-日志/未命名.md",
@@ -200,13 +205,11 @@
     "2-闪念/憨憨.md",
     "9-杂项货柜/团圆.jpg",
     "15-菜谱/东坡肉.md",
-    "15-菜谱/未命名.md",
     "25-殡葬文化/讣文.md",
     "25-殡葬文化/帐子.md",
     "9-杂项货柜/订阅链接.md",
     "9-杂项货柜/纪念周芷若.md",
     "16-人物/杰弗里·辛顿.md",
-    "9-杂项货柜/永久订阅地址.md",
     "24-读书",
     "9-杂项货柜",
     "25-殡葬文化",
@@ -214,8 +217,6 @@
     "22-实时动态",
     "Excalidraw/Pasted Image 20240227224949_664.png",
     "ttsmaker-file-2024-3-15-8-35-8.mp3",
-    "21-周易六爻预测学",
-    "20-诗词学习",
     "6-旅游/陕西省/延安市/202209241241277819871.jpg",
     "9-乱七八糟的东西/团圆.jpg",
     "6-旅游/陕西省/西安市/20240305185216.png",
