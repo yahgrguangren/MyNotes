@@ -1,4 +1,10 @@
 2024-03-21
 1、首先打开cloudflare官网地址[https://dash.cloudflare.com/sign-up](https://dash.cloudflare.com/sign-up)
 2、进行账号登录
-3、
+3、点击左边的“Workers和Pages”
+4、进去以后，点击“创建应用程序”
+5、直接点击“Pages”
+6、点击下面的“上传资产”
+7、为项目命名，比如0911，然后点击“创建醒目”
+8、为项目上传一个压缩包，压缩包地址：[https://github.com/xiaobaikeji831/Cloudflare-Vless/raw/main/worker.zip](https://github.com/xiaobaikeji831/Cloudflare-Vless/raw/main/worker.zip)
+9、
