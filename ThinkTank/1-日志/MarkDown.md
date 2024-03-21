@@ -545,5 +545,4 @@ $$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
 
 
 
-flowchart LR
-Start --> Stop
+

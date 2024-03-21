@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9-杂项货柜/经常使用的网址.md",
-                "mode": "preview",
+                "file": "1-日志/MarkDown.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9-杂项货柜/经常使用的网址.md",
+                "file": "1-日志/MarkDown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9-杂项货柜/经常使用的网址.md",
+                "file": "1-日志/MarkDown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9-杂项货柜/经常使用的网址.md"
+                "file": "1-日志/MarkDown.md"
               }
             }
           },
@@ -171,8 +171,11 @@
   },
   "active": "28af364ac5ac897b",
   "lastOpenFiles": [
-    "9-杂项货柜/2016年最好的彩票广告.md",
+    "1-日志/Untitled Diagram.svg",
     "1-日志/MarkDown.md",
+    "10-永久/Obsidian基本设置.md",
+    "9-杂项货柜/经常使用的网址.md",
+    "9-杂项货柜/2016年最好的彩票广告.md",
     "15-菜谱/中国名菜谱  北京风味  高清 电子书 pdf [北京市饮食服务总公司，北京市旅游事业管理局编写][中国财政经济出版社][1988][255页]sample.pdf",
     "15-菜谱/未命名 1.md",
     "15-菜谱/中国名菜谱  安徽风味  高清 电子书 pdf [杨东起主编；安徽省饮食服务公司编写][中国财政经济出版社][1988.06][243页]sample.pdf",
@@ -199,8 +202,6 @@
     "25-殡葬文化/讣文.md",
     "25-殡葬文化/帐子.md",
     "9-杂项货柜/订阅链接.md",
-    "9-杂项货柜/纪念周芷若.md",
-    "16-人物/杰弗里·辛顿.md",
     "24-读书",
     "9-杂项货柜",
     "25-殡葬文化",
