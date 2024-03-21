@@ -7,4 +7,11 @@
 6、点击下面的“上传资产”
 7、为项目命名，比如0911，然后点击“创建醒目”
 8、为项目上传一个压缩包，压缩包地址：[https://github.com/xiaobaikeji831/Cloudflare-Vless/raw/main/worker.zip](https://github.com/xiaobaikeji831/Cloudflare-Vless/raw/main/worker.zip)
-9、
+9、点击“部署站点”
+10、点击“继续处理项目”
+11、点击“搜索.设置”，添加变量
+12、点击“添加变量”，UUID
+13、在线生成：[https://1024tools.com/uuid](https://1024tools.com/uuid)生成一组UUID
+14、选择一个UUID值填入空格中
+15、点击左上角的“部署”
+16、点击页面zho
