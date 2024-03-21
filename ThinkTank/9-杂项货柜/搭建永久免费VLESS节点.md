@@ -1,27 +1,28 @@
-<center>2024-03-21</center>
-1、首先打开cloudflare官网地址[https://dash.cloudflare.com/sign-up](https://dash.cloudflare.com/sign-up)
-2、进行账号登录
-3、点击左边的“Workers和Pages”
-4、进去以后，点击“创建应用程序”
-5、直接点击“Pages”
-6、点击下面的“上传资产”
-7、为项目命名，比如0911，然后点击“创建醒目”
-8、为项目上传一个压缩包，压缩包地址：[https://github.com/xiaobaikeji831/Cloudflare-Vless/raw/main/worker.zip](https://github.com/xiaobaikeji831/Cloudflare-Vless/raw/main/worker.zip)
-9、点击“部署站点”
-10、点击“继续处理项目”
-11、点击“搜索.设置”，添加变量
-12、点击“添加变量”，UUID
-13、在线生成：[https://1024tools.com/uuid](https://1024tools.com/uuid)生成一组UUID
-14、选择一个UUID值填入空格中
-15、点击左上角的“部署”
-16、点击页面中的“创建新的部署”
-17、再上传一次前面上传的资产
-18、点击“保存并部署”
-19、点击搭建成功的节点https://0911.pages.dev
-20、在浏览器地址栏中的地址后面加上/和生成的UUID，例如https://0911.pages.dev/9a9f06c3-5779-4d48-8230-95a1f1b812c6
-21、复制出现的订阅地址：https://0911.pages.dev/9a9f06c3-5779-4d48-8230-95a1f1b812c6
-22、打开v2rayN应用程序，点击“订阅分组”或者“+”，名称输入“JD”
-23、订阅地址栏目输入我们的订阅地址：https://0911.pages.dev/9a9f06c3-5779-4d48-8230-95a1f1b812c6
-24、然后点击“确定”
-25、点击“JD”，再选择订阅服务，点击“更新当前订阅（通过代理）”
-26、节点出现后就可以使用了
+<center><font color="#c0504d">2024-03-21</font></center>
+
+1. 首先打开cloudflare官网地址[https://dash.cloudflare.com/sign-up](https://dash.cloudflare.com/sign-up)
+2. 进行账号登录
+3. 点击左边的“Workers和Pages”
+4. 进去以后，点击“创建应用程序”
+5. 直接点击“Pages”
+6. 点击下面的“上传资产”
+7. 为项目命名，比如0911，然后点击“创建醒目”
+8. 为项目上传一个压缩包，压缩包地址：[https://github.com/xiaobaikeji831/Cloudflare-Vless/raw/main/worker.zip](https://github.com/xiaobaikeji831/Cloudflare-Vless/raw/main/worker.zip)
+9. 点击“部署站点”
+10. 点击“继续处理项目”
+11. 点击“搜索.设置”，添加变量
+12. 点击“添加变量”，UUID
+13. 在线生成：[https://1024tools.com/uuid](https://1024tools.com/uuid)生成一组UUID
+14. 选择一个UUID值填入空格中
+15. 点击左上角的“部署”
+16. 点击页面中的“创建新的部署”
+17. 再上传一次前面上传的资产
+18. 点击“保存并部署”
+19. 点击搭建成功的节点https://0911.pages.dev
+20. 在浏览器地址栏中的地址后面加上/和生成的UUID，例如https://0911.pages.dev/9a9f06c3-5779-4d48-8230-95a1f1b812c6
+21. 复制出现的订阅地址：https://0911.pages.dev/9a9f06c3-5779-4d48-8230-95a1f1b812c6
+22. 打开v2rayN应用程序，点击“订阅分组”或者“+”，名称输入“JD”
+23. 订阅地址栏目输入我们的订阅地址：https://0911.pages.dev/9a9f06c3-5779-4d48-8230-95a1f1b812c6
+24. 然后点击“确定”
+25. 点击“JD”，再选择订阅服务，点击“更新当前订阅（通过代理）”
+26. 节点出现后就可以使用了
