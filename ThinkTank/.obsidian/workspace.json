@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-永久/Windows11的激活.md",
+                "file": "10-永久/WinGet 封裝管理員.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-永久/Windows11的激活.md",
+                "file": "10-永久/WinGet 封裝管理員.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-永久/Windows11的激活.md",
+                "file": "10-永久/WinGet 封裝管理員.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-永久/Windows11的激活.md"
+                "file": "10-永久/WinGet 封裝管理員.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "24c5f76d5bf5c512",
   "lastOpenFiles": [
-    "10-永久/WinGet 封裝管理員.md",
     "10-永久/Windows11的激活.md",
+    "10-永久/WinGet 封裝管理員.md",
     "9-杂项货柜/经常使用的网址.md",
     "25-殡葬文化/清明祭祖四种贡品不能带.md",
     "9-杂项货柜/搭建永久免费VLESS节点.md",
