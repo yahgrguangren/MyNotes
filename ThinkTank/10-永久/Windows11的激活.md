@@ -1,0 +1,4 @@
+2024-03-22
+
+ipk VK7JG-NPHTM-C97JM-9MPGT-3V66T
+slmgr.vbs 
